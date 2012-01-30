@@ -1,0 +1,777 @@
+{
+	"nation": {
+		"pie": {
+			"data": [
+				{"label": "Less than ninth grade","total": 7972497,"percent": 4.87},
+				{"label": "Ninth to 12th grade, no diploma","total": 12539457,"percent": 7.65},
+				{"label": "High school graduate (including equivalency)","total": 44350497,"percent": 27.07},
+				{"label": "Some college, no degree","total": 36209776,"percent": 22.10},
+				{"label": "Associate degree","total": 13832109,"percent": 8.44},
+				{"label": "Bachelor's degree","total": 31423077,"percent": 19.18},
+				{"label": "Graduate or professional degree","total": 17527995,"percent": 10.70},
+				{"label": "TOTAL","total": 163855408,"percent": 100}
+			],
+			"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+		},
+
+		"bar-trend": {
+			"data": [
+				{"year": 2008,"percent": },
+				{"year": 2009,"percent": },
+				{"year": 2010,"percent": }
+			],
+			"source": "Source: U.S. Census Bureau, more description to come later for this"
+		},
+
+		"bar-rates": {
+			"data": [
+				{"ethnicity": "White","percent": 42.96},
+				{"ethnicity": "Black","percent": 26.84},
+				{"ethnicity": "Hispanic","percent": 19.21},
+				{"ethnicity": "Asian","percent": 59.36},
+				{"ethnicity": "Native American","percent": 22.83}
+			],
+			"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"	
+		},
+
+		"line": {
+			"data": {
+				"expected": [
+					{"year": 2000,"percent": 33.8},
+					{"year": 2010,"percent": 38.3},
+					{"year": 2011,"percent": 38.8},
+					{"year": 2012,"percent": 39.2},
+					{"year": 2013,"percent": 39.7},
+					{"year": 2014,"percent": 40.1},
+					{"year": 2015,"percent": 40.6},
+					{"year": 2016,"percent": 41.0},
+					{"year": 2017,"percent": 41.5},
+					{"year": 2018,"percent": 41.9},
+					{"year": 2019,"percent": 42.4},
+					{"year": 2020,"percent": 42.9},
+					{"year": 2021,"percent": 43.3},
+					{"year": 2022,"percent": 43.8},
+					{"year": 2023,"percent": 44.2},
+					{"year": 2024,"percent": 44.7},
+					{"year": 2025,"percent": 45.1}
+				],
+				"targets": [
+					{"year": 2010,"percent": 38.3},
+					{"year": 2011,"percent": 39.8},
+					{"year": 2012,"percent": 41.2},
+					{"year": 2013,"percent": 42.7},
+					{"year": 2014,"percent": 44.1},
+					{"year": 2015,"percent": 45.5},
+					{"year": 2016,"percent": 47.0},
+					{"year": 2017,"percent": 48.4},
+					{"year": 2018,"percent": 49.9},
+					{"year": 2019,"percent": 51.3},
+					{"year": 2020,"percent": 52.8},
+					{"year": 2021,"percent": 54.2},
+					{"year": 2022,"percent": 55.7},
+					{"year": 2023,"percent": 57.1},
+					{"year": 2024,"percent": 58.6},
+					{"year": 2025,"percent": 60.0}
+				]
+			},
+			"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey"
+		}
+	},
+  
+	"metro areas": {
+		"data": [
+			{
+				"rank": 1, 
+				"precent": 45.88, 
+				"population": 18897109, 
+				"area": "New York-Northern New Jersey-Long Island, NY-NJ-PA  Metro Area"
+			}, 
+			{
+				"rank": 2, 
+				"precent": 38.96, 
+				"population": 12828837, 
+				"area": "Los Angeles-Long Beach-Santa Ana, CA  Metro Area"
+			}, 
+			{
+				"rank": 3, 
+				"precent": 43.59, 
+				"population": 9461105, 
+				"area": "Chicago-Joliet-Naperville, IL-IN-WI  Metro Area"
+			}, 
+			{
+				"rank": 4, 
+				"precent": 38.66, 
+				"population": 6371773, 
+				"area": "Dallas-Fort Worth-Arlington, TX  Metro Area"
+			}, 
+			{
+				"rank": 5, 
+				"precent": 42.65, 
+				"population": 5965343, 
+				"area": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Metro Area"
+			}, 
+			{
+				"rank": 6, 
+				"precent": 35.25, 
+				"population": 5946800, 
+				"area": "Houston-Sugar Land-Baytown, TX  Metro Area"
+			}, 
+			{
+				"rank": 7, 
+				"precent": 54.37, 
+				"population": 5582170, 
+				"area": "Washington-Arlington-Alexandria, DC-VA-MD-WV  Metro Area"
+			}, 
+			{
+				"rank": 8, 
+				"precent": 39.65, 
+				"population": 5564635, 
+				"area": "Miami-Fort Lauderdale-Pompano Beach, FL  Metro Area"
+			}, 
+			{
+				"rank": 9, 
+				"precent": 43.39, 
+				"population": 5268860, 
+				"area": "Atlanta-Sandy Springs-Marietta, GA  Metro Area"
+			}, 
+			{
+				"rank": 10, 
+				"precent": 54.01, 
+				"population": 4552402, 
+				"area": "Boston-Cambridge-Quincy, MA-NH  Metro Area"
+			}, 
+			{
+				"rank": 11, 
+				"precent": 52.91, 
+				"population": 4335391, 
+				"area": "San Francisco-Oakland-Fremont, CA  Metro Area"
+			}, 
+			{
+				"rank": 12, 
+				"precent": 37.86, 
+				"population": 4296250, 
+				"area": "Detroit-Warren-Livonia, MI  Metro Area"
+			}, 
+			{
+				"rank": 13, 
+				"precent": 27.54, 
+				"population": 4224851, 
+				"area": "Riverside-San Bernardino-Ontario, CA  Metro Area"
+			}, 
+			{
+				"rank": 14, 
+				"precent": 37.3, 
+				"population": 4192887, 
+				"area": "Phoenix-Mesa-Glendale, AZ  Metro Area"
+			}, 
+			{
+				"rank": 15, 
+				"precent": 47.97, 
+				"population": 3439809, 
+				"area": "Seattle-Tacoma-Bellevue, WA  Metro Area"
+			}, 
+			{
+				"rank": 16, 
+				"precent": 50.06, 
+				"population": 3279833, 
+				"area": "Minneapolis-St. Paul-Bloomington, MN-WI  Metro Area"
+			}, 
+			{
+				"rank": 17, 
+				"precent": 43.95, 
+				"population": 3095313, 
+				"area": "San Diego-Carlsbad-San Marcos, CA  Metro Area"
+			}, 
+			{
+				"rank": 18, 
+				"precent": 41.15, 
+				"population": 2812896, 
+				"area": "St. Louis, MO-IL  Metro Area"
+			}, 
+			{
+				"rank": 19, 
+				"precent": 37.56, 
+				"population": 2783243, 
+				"area": "Tampa-St. Petersburg-Clearwater, FL  Metro Area"
+			}, 
+			{
+				"rank": 20, 
+				"precent": 43.9, 
+				"population": 2710489, 
+				"area": "Baltimore-Towson, MD  Metro Area"
+			}, 
+			{
+				"rank": 21, 
+				"precent": 47.39, 
+				"population": 2543482, 
+				"area": "Denver-Aurora-Broomfield, CO  Metro Area"
+			}, 
+			{
+				"rank": 22, 
+				"precent": 36.92, 
+				"population": 2478905, 
+				"area": "San Juan-Caguas-Guaynabo, PR  Metro Area"
+			}, 
+			{
+				"rank": 23, 
+				"precent": 43.56, 
+				"population": 2356285, 
+				"area": "Pittsburgh, PA  Metro Area"
+			}, 
+			{
+				"rank": 24, 
+				"precent": 43.82, 
+				"population": 2226009, 
+				"area": "Portland-Vancouver-Hillsboro, OR-WA  Metro Area"
+			}, 
+			{
+				"rank": 25, 
+				"precent": 40.65, 
+				"population": 2149127, 
+				"area": "Sacramento--Arden-Arcade--Roseville, CA  Metro Area"
+			}, 
+			{
+				"rank": 26, 
+				"precent": 33.88, 
+				"population": 2142508, 
+				"area": "San Antonio-New Braunfels, TX  Metro Area"
+			}, 
+			{
+				"rank": 27, 
+				"precent": 39.55, 
+				"population": 2134411, 
+				"area": "Orlando-Kissimmee-Sanford, FL  Metro Area"
+			}, 
+			{
+				"rank": 28, 
+				"precent": 39.37, 
+				"population": 2130151, 
+				"area": "Cincinnati-Middletown, OH-KY-IN  Metro Area"
+			}, 
+			{
+				"rank": 29, 
+				"precent": 38.65, 
+				"population": 2077240, 
+				"area": "Cleveland-Elyria-Mentor, OH  Metro Area"
+			}, 
+			{
+				"rank": 30, 
+				"precent": 42.52, 
+				"population": 2035334, 
+				"area": "Kansas City, MO-KS  Metro Area"
+			}, 
+			{
+				"rank": 31, 
+				"precent": 29.67, 
+				"population": 1951269, 
+				"area": "Las Vegas-Paradise, NV  Metro Area"
+			}, 
+			{
+				"rank": 32, 
+				"precent": 54.08, 
+				"population": 1836911, 
+				"area": "San Jose-Sunnyvale-Santa Clara, CA  Metro Area"
+			}, 
+			{
+				"rank": 33, 
+				"precent": 42.83, 
+				"population": 1836536, 
+				"area": "Columbus, OH  Metro Area"
+			}, 
+			{
+				"rank": 34, 
+				"precent": 43.16, 
+				"population": 1758038, 
+				"area": "Charlotte-Gastonia-Rock Hill, NC-SC  Metro Area"
+			}, 
+			{
+				"rank": 35, 
+				"precent": 41.0, 
+				"population": 1756241, 
+				"area": "Indianapolis-Carmel, IN  Metro Area"
+			}, 
+			{
+				"rank": 36, 
+				"precent": 46.97, 
+				"population": 1716289, 
+				"area": "Austin-Round Rock-San Marcos, TX  Metro Area"
+			}, 
+			{
+				"rank": 37, 
+				"precent": 38.2, 
+				"population": 1671683, 
+				"area": "Virginia Beach-Norfolk-Newport News, VA-NC  Metro Area"
+			}, 
+			{
+				"rank": 38, 
+				"precent": 40.28, 
+				"population": 1600852, 
+				"area": "Providence-New Bedford-Fall River, RI-MA  Metro Area"
+			}, 
+			{
+				"rank": 39, 
+				"precent": 39.06, 
+				"population": 1589934, 
+				"area": "Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area"
+			}, 
+			{
+				"rank": 40, 
+				"precent": 42.09, 
+				"population": 1555908, 
+				"area": "Milwaukee-Waukesha-West Allis, WI  Metro Area"
+			}, 
+			{
+				"rank": 41, 
+				"precent": 36.5, 
+				"population": 1345596, 
+				"area": "Jacksonville, FL  Metro Area"
+			}, 
+			{
+				"rank": 42, 
+				"precent": 33.28, 
+				"population": 1316100, 
+				"area": "Memphis, TN-MS-AR  Metro Area"
+			}, 
+			{
+				"rank": 43, 
+				"precent": 34.85, 
+				"population": 1283566, 
+				"area": "Louisville/Jefferson County, KY-IN  Metro Area"
+			}, 
+			{
+				"rank": 44, 
+				"precent": 39.61, 
+				"population": 1258251, 
+				"area": "Richmond, VA  Metro Area"
+			}, 
+			{
+				"rank": 45, 
+				"precent": 35.19, 
+				"population": 1252987, 
+				"area": "Oklahoma City, OK  Metro Area"
+			}, 
+			{
+				"rank": 46, 
+				"precent": 46.28, 
+				"population": 1212381, 
+				"area": "Hartford-West Hartford-East Hartford, CT  Metro Area"
+			}, 
+			{
+				"rank": 47, 
+				"precent": 33.7, 
+				"population": 1167764, 
+				"area": "New Orleans-Metairie-Kenner, LA  Metro Area"
+			}, 
+			{
+				"rank": 48, 
+				"precent": 44.14, 
+				"population": 1135509, 
+				"area": "Buffalo-Niagara Falls, NY  Metro Area"
+			}, 
+			{
+				"rank": 49, 
+				"precent": 52.72, 
+				"population": 1130490, 
+				"area": "Raleigh-Cary, NC  Metro Area"
+			}, 
+			{
+				"rank": 50, 
+				"precent": 36.92, 
+				"population": 1128047, 
+				"area": "Birmingham-Hoover, AL  Metro Area"
+			}, 
+			{
+				"rank": 51, 
+				"precent": 39.64, 
+				"population": 1124197, 
+				"area": "Salt Lake City, UT  Metro Area"
+			}, 
+			{
+				"rank": 52, 
+				"precent": 46.9, 
+				"population": 1054323, 
+				"area": "Rochester, NY  Metro Area"
+			}, 
+			{
+				"rank": 53, 
+				"precent": 37.77, 
+				"population": 980263, 
+				"area": "Tucson, AZ  Metro Area"
+			}, 
+			{
+				"rank": 54, 
+				"precent": 44.5, 
+				"population": 953207, 
+				"area": "Honolulu, HI  Metro Area"
+			}, 
+			{
+				"rank": 55, 
+				"precent": 35.55, 
+				"population": 937478, 
+				"area": "Tulsa, OK  Metro Area"
+			}, 
+			{
+				"rank": 56, 
+				"precent": 28.71, 
+				"population": 930450, 
+				"area": "Fresno, CA  Metro Area"
+			}, 
+			{
+				"rank": 57, 
+				"precent": 53.29, 
+				"population": 916829, 
+				"area": "Bridgeport-Stamford-Norwalk, CT  Metro Area"
+			}, 
+			{
+				"rank": 58, 
+				"precent": 37.68, 
+				"population": 887077, 
+				"area": "Albuquerque, NM  Metro Area"
+			}, 
+			{
+				"rank": 59, 
+				"precent": 48.94, 
+				"population": 870716, 
+				"area": "Albany-Schenectady-Troy, NY  Metro Area"
+			}, 
+			{
+				"rank": 60, 
+				"precent": 43.82, 
+				"population": 865350, 
+				"area": "Omaha-Council Bluffs, NE-IA  Metro Area"
+			}, 
+			{
+				"rank": 61, 
+				"precent": 42.99, 
+				"population": 862477, 
+				"area": "New Haven-Milford, CT  Metro Area"
+			}, 
+			{
+				"rank": 62, 
+				"precent": 36.67, 
+				"population": 841502, 
+				"area": "Dayton, OH  Metro Area"
+			}, 
+			{
+				"rank": 63, 
+				"precent": 21.33, 
+				"population": 839631, 
+				"area": "Bakersfield-Delano, CA  Metro Area"
+			}, 
+			{
+				"rank": 64, 
+				"precent": 40.11, 
+				"population": 823318, 
+				"area": "Oxnard-Thousand Oaks-Ventura, CA  Metro Area"
+			}, 
+			{
+				"rank": 65, 
+				"precent": 38.76, 
+				"population": 821173, 
+				"area": "Allentown-Bethlehem-Easton, PA-NJ  Metro Area"
+			}, 
+			{
+				"rank": 66, 
+				"precent": 31.65, 
+				"population": 802484, 
+				"area": "Baton Rouge, LA  Metro Area"
+			}, 
+			{
+				"rank": 67, 
+				"precent": 28.05, 
+				"population": 800647, 
+				"area": "El Paso, TX  Metro Area"
+			}, 
+			{
+				"rank": 68, 
+				"precent": 46.32, 
+				"population": 798552, 
+				"area": "Worcester, MA  Metro Area"
+			}, 
+			{
+				"rank": 69, 
+				"precent": 20.78, 
+				"population": 774769, 
+				"area": "McAllen-Edinburg-Mission, TX  Metro Area"
+			}, 
+			{
+				"rank": 70, 
+				"precent": 37.62, 
+				"population": 774160, 
+				"area": "Grand Rapids-Wyoming, MI  Metro Area"
+			}, 
+			{
+				"rank": 71, 
+				"precent": 40.59, 
+				"population": 767598, 
+				"area": "Columbia, SC  Metro Area"
+			}, 
+			{
+				"rank": 72, 
+				"precent": 35.3, 
+				"population": 723801, 
+				"area": "Greensboro-High Point, NC  Metro Area"
+			}, 
+			{
+				"rank": 73, 
+				"precent": 39.93, 
+				"population": 703200, 
+				"area": "Akron, OH  Metro Area"
+			}, 
+			{
+				"rank": 74, 
+				"precent": 36.47, 
+				"population": 702281, 
+				"area": "North Port-Bradenton-Sarasota, FL  Metro Area"
+			}, 
+			{
+				"rank": 75, 
+				"precent": 35.18, 
+				"population": 699757, 
+				"area": "Little Rock-North Little Rock-Conway, AR  Metro Area"
+			}, 
+			{
+				"rank": 76, 
+				"precent": 38.86, 
+				"population": 698030, 
+				"area": "Knoxville, TN  Metro Area"
+			}, 
+			{
+				"rank": 77, 
+				"precent": 41.17, 
+				"population": 692942, 
+				"area": "Springfield, MA  Metro Area"
+			}, 
+			{
+				"rank": 78, 
+				"precent": 26.11, 
+				"population": 685306, 
+				"area": "Stockton, CA  Metro Area"
+			}, 
+			{
+				"rank": 79, 
+				"precent": 42.77, 
+				"population": 670301, 
+				"area": "Poughkeepsie-Newburgh-Middletown, NY  Metro Area"
+			}, 
+			{
+				"rank": 80, 
+				"precent": 40.75, 
+				"population": 664607, 
+				"area": "Charleston-North Charleston-Summerville, SC  Metro Area"
+			}, 
+			{
+				"rank": 81, 
+				"precent": 43.53, 
+				"population": 662577, 
+				"area": "Syracuse, NY  Metro Area"
+			}, 
+			{
+				"rank": 82, 
+				"precent": 34.82, 
+				"population": 651429, 
+				"area": "Toledo, OH  Metro Area"
+			}, 
+			{
+				"rank": 83, 
+				"precent": 46.38, 
+				"population": 645613, 
+				"area": "Colorado Springs, CO  Metro Area"
+			}, 
+			{
+				"rank": 84, 
+				"precent": 38.58, 
+				"population": 636986, 
+				"area": "Greenville-Mauldin-Easley, SC  Metro Area"
+			}, 
+			{
+				"rank": 85, 
+				"precent": 36.58, 
+				"population": 623061, 
+				"area": "Wichita, KS  Metro Area"
+			}, 
+			{
+				"rank": 86, 
+				"precent": 32.46, 
+				"population": 618754, 
+				"area": "Cape Coral-Fort Myers, FL  Metro Area"
+			}, 
+			{
+				"rank": 87, 
+				"precent": 37.85, 
+				"population": 616561, 
+				"area": "Boise City-Nampa, ID  Metro Area"
+			}, 
+			{
+				"rank": 88, 
+				"precent": 27.57, 
+				"population": 602095, 
+				"area": "Lakeland-Winter Haven, FL  Metro Area"
+			}, 
+			{
+				"rank": 89, 
+				"precent": 46.86, 
+				"population": 569633, 
+				"area": "Des Moines-West Des Moines, IA  Metro Area"
+			}, 
+			{
+				"rank": 90, 
+				"precent": 53.74, 
+				"population": 568593, 
+				"area": "Madison, WI  Metro Area"
+			}, 
+			{
+				"rank": 91, 
+				"precent": 28.71, 
+				"population": 565773, 
+				"area": "Youngstown-Warren-Boardman, OH-PA  Metro Area"
+			}, 
+			{
+				"rank": 92, 
+				"precent": 34.5, 
+				"population": 563631, 
+				"area": "Scranton--Wilkes-Barre, PA  Metro Area"
+			}, 
+			{
+				"rank": 93, 
+				"precent": 32.58, 
+				"population": 556877, 
+				"area": "Augusta-Richmond County, GA-SC  Metro Area"
+			}, 
+			{
+				"rank": 94, 
+				"precent": 39.68, 
+				"population": 549475, 
+				"area": "Harrisburg-Carlisle, PA  Metro Area"
+			}, 
+			{
+				"rank": 95, 
+				"precent": 40.09, 
+				"population": 547184, 
+				"area": "Ogden-Clearfield, UT  Metro Area"
+			}, 
+			{
+				"rank": 96, 
+				"precent": 39.37, 
+				"population": 543376, 
+				"area": "Palm Bay-Melbourne-Titusville, FL  Metro Area"
+			}, 
+			{
+				"rank": 97, 
+				"precent": 38.78, 
+				"population": 539057, 
+				"area": "Jackson, MS  Metro Area"
+			}, 
+			{
+				"rank": 98, 
+				"precent": 32.34, 
+				"population": 528143, 
+				"area": "Chattanooga, TN-GA  Metro Area"
+			}, 
+			{
+				"rank": 99, 
+				"precent": 46.97, 
+				"population": 526810, 
+				"area": "Provo-Orem, UT  Metro Area"
+			}, 
+			{
+				"rank": 100, 
+				"precent": 32.21, 
+				"population": 519445, 
+				"area": "Lancaster, PA  Metro Area"
+			}
+		],
+
+		"source": "Source:  U.S. Census Bureau, 2010 Census and 2008-10 American Community Survey Three-Year Estimates"
+	},
+	
+	"states": {
+		"alabama": {
+			"pie": {
+				"data": [],
+				"source": ""
+			},
+
+			"bar-trend": {
+				"data": [],
+				"source": ""
+			},
+
+			"bar-rates": {
+				"data": [],
+				"source": ""
+			},
+
+			"line": {
+				"data": {
+					"expected": [],
+					"targets": []
+				},
+				"source": ""
+			},
+
+			"counties": {
+				"data": [],
+				"source": ""
+			}
+		},
+		"alaska": {
+			"pie": {
+				"data": [],
+				"source": ""
+			},
+
+			"bar-trend": {
+				"data": [],
+				"source": ""
+			},
+
+			"bar-rates": {
+				"data": [],
+				"source": ""
+			},
+
+			"line": {
+				"data": {
+					"expected": [],
+					"targets": []
+				},
+				"source": ""
+			},
+
+			"counties": {
+				"data": [],
+				"source": ""
+			}
+		},
+		"arizona": {
+			"pie": {
+				"data": [],
+				"source": ""
+			},
+
+			"bar-trend": {
+				"data": [],
+				"source": ""
+			},
+
+			"bar-rates": {
+				"data": [],
+				"source": ""
+			},
+
+			"line": {
+				"data": {
+					"expected": [],
+					"targets": []
+				},
+				"source": ""
+			},
+
+			"counties": {
+				"data": [],
+				"source": ""
+			}
+		}
+	}
+}
