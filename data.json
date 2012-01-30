@@ -1590,6 +1590,576 @@
 				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 			}
 		},
+		"delaware": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"14,034","percent":"2.98%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"34,893","percent":"7.40%"},
+					{"label":"High school graduate (including equivalency)","total":"146,001","percent":"30.98%"},
+					{"label":"Some college, no degree","total":"99,953","percent":"21.21%"},
+					{"label":"Associate degree","total":"37,771","percent":"8.01%"},
+					{"label":"Bachelor's degree","total":"83,712","percent":"17.76%"},
+					{"label":"Graduate or professional degree","total":"54,945","percent":"11.66%"},
+					{"label":"TOTAL","total":"471,309","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"41.07%"},
+					{"ethnicity":"Black","percent":"25.75%"},
+					{"ethnicity":"Hispanic","percent":"16.29%"},
+					{"ethnicity":"Asian","percent":"73.91%"},
+					{"ethnicity":"Native American","percent":"19.22%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 34.4},
+						{"year": 2010, "percent": 37.4},
+						{"year": 2011, "percent": 37.7},
+						{"year": 2012, "percent": 38.0},
+						{"year": 2013, "percent": 38.3},
+						{"year": 2014, "percent": 38.7},
+						{"year": 2015, "percent": 39.0},
+						{"year": 2016, "percent": 39.3},
+						{"year": 2017, "percent": 39.6},
+						{"year": 2018, "percent": 39.9},
+						{"year": 2019, "percent": 40.2},
+						{"year": 2020, "percent": 40.5},
+						{"year": 2021, "percent": 40.8},
+						{"year": 2022, "percent": 41.1},
+						{"year": 2023, "percent": 41.4},
+						{"year": 2024, "percent": 41.7},
+						{"year": 2025, "percent": 42.0}
+					],
+					"targets": [
+						{"year": 2010, "percent": 37.4},
+						{"year": 2011, "percent": 38.9},
+						{"year": 2012, "percent": 40.4},
+						{"year": 2013, "percent": 41.9},
+						{"year": 2014, "percent": 43.5},
+						{"year": 2015, "percent": 45.0},
+						{"year": 2016, "percent": 46.5},
+						{"year": 2017, "percent": 48.0},
+						{"year": 2018, "percent": 49.5},
+						{"year": 2019, "percent": 51.0},
+						{"year": 2020, "percent": 52.5},
+						{"year": 2021, "percent": 54.0},
+						{"year": 2022, "percent": 55.5},
+						{"year": 2023, "percent": 57.0},
+						{"year": 2024, "percent": 58.5},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Kent","percent":30.82},
+					{"county":"New Castle","percent":41.99},
+					{"county":"Sussex","percent":30.45}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"florida": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"436,359","percent":"4.45%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"817,557","percent":"8.34%"},
+					{"label":"High school graduate (including equivalency)","total":"2,835,384","percent":"28.92%"},
+					{"label":"Some college, no degree","total":"2,136,681","percent":"21.79%"},
+					{"label":"Associate degree","total":"960,424","percent":"9.80%"},
+					{"label":"Bachelor's degree","total":"1,739,410","percent":"17.74%"},
+					{"label":"Graduate or professional degree","total":"878,165","percent":"8.96%"},
+					{"label":"TOTAL","total":"9,803,980","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"40.70%"},
+					{"ethnicity":"Black","percent":"25.03%"},
+					{"ethnicity":"Hispanic","percent":"31.23%"},
+					{"ethnicity":"Asian","percent":"55.41%"},
+					{"ethnicity":"Native American","percent":"28.57%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 32.4},
+						{"year": 2010, "percent": 36.5},
+						{"year": 2011, "percent": 36.9},
+						{"year": 2012, "percent": 37.3},
+						{"year": 2013, "percent": 37.7},
+						{"year": 2014, "percent": 38.1},
+						{"year": 2015, "percent": 38.5},
+						{"year": 2016, "percent": 39.0},
+						{"year": 2017, "percent": 39.4},
+						{"year": 2018, "percent": 39.8},
+						{"year": 2019, "percent": 40.2},
+						{"year": 2020, "percent": 40.6},
+						{"year": 2021, "percent": 41.0},
+						{"year": 2022, "percent": 41.4},
+						{"year": 2023, "percent": 41.8},
+						{"year": 2024, "percent": 42.2},
+						{"year": 2025, "percent": 42.6}
+					],
+					"targets": [
+						{"year": 2010, "percent": 36.5},
+						{"year": 2011, "percent": 38.1},
+						{"year": 2012, "percent": 39.6},
+						{"year": 2013, "percent": 41.2},
+						{"year": 2014, "percent": 42.8},
+						{"year": 2015, "percent": 44.3},
+						{"year": 2016, "percent": 45.9},
+						{"year": 2017, "percent": 47.5},
+						{"year": 2018, "percent": 49.0},
+						{"year": 2019, "percent": 50.6},
+						{"year": 2020, "percent": 52.2},
+						{"year": 2021, "percent": 53.7},
+						{"year": 2022, "percent": 55.3},
+						{"year": 2023, "percent": 56.9},
+						{"year": 2024, "percent": 58.4},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Alachua","percent":54.14},
+					{"county":"Baker","percent":15.75},
+					{"county":"Bay","percent":31.95},
+					{"county":"Bradford","percent":16.50},
+					{"county":"Brevard","percent":40.01},
+					{"county":"Broward","percent":41.79},
+					{"county":"Calhoun","percent":16.40},
+					{"county":"Charlotte","percent":31.98},
+					{"county":"Citrus","percent":25.50},
+					{"county":"Clay","percent":35.50},
+					{"county":"Collier","percent":34.93},
+					{"county":"Columbia","percent":24.43},
+					{"county":"DeSoto","percent":15.80},
+					{"county":"Dixie","percent":10.83},
+					{"county":"Duval","percent":35.44},
+					{"county":"Escambia","percent":34.67},
+					{"county":"Flagler","percent":33.42},
+					{"county":"Franklin","percent":21.85},
+					{"county":"Gadsden","percent":17.56},
+					{"county":"Gilchrist","percent":17.29},
+					{"county":"Glades","percent":17.05},
+					{"county":"Gulf","percent":20.48},
+					{"county":"Hamilton","percent":14.36},
+					{"county":"Hardee","percent":12.09},
+					{"county":"Hendry","percent":12.47},
+					{"county":"Hernando","percent":26.59},
+					{"county":"Highlands","percent":23.55},
+					{"county":"Hillsborough","percent":41.05},
+					{"county":"Holmes","percent":16.08},
+					{"county":"Indian River","percent":34.36},
+					{"county":"Jackson","percent":21.21},
+					{"county":"Jefferson","percent":21.06},
+					{"county":"Lafayette","percent":20.84},
+					{"county":"Lake","percent":30.62},
+					{"county":"Lee","percent":33.06},
+					{"county":"Leon","percent":51.52},
+					{"county":"Levy","percent":21.01},
+					{"county":"Liberty","percent":19.31},
+					{"county":"Madison","percent":16.74},
+					{"county":"Manatee","percent":36.24},
+					{"county":"Marion","percent":27.56},
+					{"county":"Martin","percent":41.36},
+					{"county":"Miami-Dade","percent":37.72},
+					{"county":"Monroe","percent":38.54},
+					{"county":"Nassau","percent":30.48},
+					{"county":"Okaloosa","percent":38.69},
+					{"county":"Okeechobee","percent":18.43},
+					{"county":"Orange","percent":42.79},
+					{"county":"Osceola","percent":30.49},
+					{"county":"Palm Beach","percent":41.96},
+					{"county":"Pasco","percent":33.13},
+					{"county":"Pinellas","percent":39.08},
+					{"county":"Polk","percent":27.71},
+					{"county":"Putnam","percent":19.10},
+					{"county":"St. Johns","percent":49.86},
+					{"county":"St. Lucie","percent":27.24},
+					{"county":"Santa Rosa","percent":37.18},
+					{"county":"Sarasota","percent":38.18},
+					{"county":"Seminole","percent":46.18},
+					{"county":"Sumter","percent":23.07},
+					{"county":"Suwannee","percent":17.87},
+					{"county":"Taylor","percent":18.75},
+					{"county":"Union","percent":14.69},
+					{"county":"Volusia","percent":32.97},
+					{"county":"Wakulla","percent":25.76},
+					{"county":"Walton","percent":31.68},
+					{"county":"Washington","percent":18.73}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"georgia": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"234,927","percent":"4.52%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"476,552","percent":"9.16%"},
+					{"label":"High school graduate (including equivalency)","total":"1,476,738","percent":"28.39%"},
+					{"label":"Some college, no degree","total":"1,134,662","percent":"21.81%"},
+					{"label":"Associate degree","total":"383,029","percent":"7.36%"},
+					{"label":"Bachelor's degree","total":"975,273","percent":"18.75%"},
+					{"label":"Graduate or professional degree","total":"520,544","percent":"10.01%"},
+					{"label":"TOTAL","total":"5,201,725","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"41.07%"},
+					{"ethnicity":"Black","percent":"28.60%"},
+					{"ethnicity":"Hispanic","percent":"18.05%"},
+					{"ethnicity":"Asian","percent":"58.76%"},
+					{"ethnicity":"Native American","percent":"33.27%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 31.9},
+						{"year": 2010, "percent": 36.1},
+						{"year": 2011, "percent": 36.5},
+						{"year": 2012, "percent": 37.0},
+						{"year": 2013, "percent": 37.4},
+						{"year": 2014, "percent": 37.8},
+						{"year": 2015, "percent": 38.2},
+						{"year": 2016, "percent": 38.7},
+						{"year": 2017, "percent": 39.1},
+						{"year": 2018, "percent": 39.5},
+						{"year": 2019, "percent": 39.9},
+						{"year": 2020, "percent": 40.3},
+						{"year": 2021, "percent": 40.8},
+						{"year": 2022, "percent": 41.2},
+						{"year": 2023, "percent": 41.6},
+						{"year": 2024, "percent": 42.0},
+						{"year": 2025, "percent": 42.5}
+					],
+					"targets": [
+						{"year": 2010, "percent": 36.1},
+						{"year": 2011, "percent": 37.7},
+						{"year": 2012, "percent": 39.3},
+						{"year": 2013, "percent": 40.9},
+						{"year": 2014, "percent": 42.5},
+						{"year": 2015, "percent": 44.1},
+						{"year": 2016, "percent": 45.7},
+						{"year": 2017, "percent": 47.3},
+						{"year": 2018, "percent": 48.9},
+						{"year": 2019, "percent": 50.4},
+						{"year": 2020, "percent": 52.0},
+						{"year": 2021, "percent": 53.6},
+						{"year": 2022, "percent": 55.2},
+						{"year": 2023, "percent": 56.8},
+						{"year": 2024, "percent": 58.4},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Appling","percent":15.18},
+					{"county":"Atkinson","percent":12.43},
+					{"county":"Bacon","percent":12.38},
+					{"county":"Baker","percent":19.11},
+					{"county":"Baldwin","percent":24.25},
+					{"county":"Banks","percent":16.06},
+					{"county":"Barrow","percent":24.01},
+					{"county":"Bartow","percent":22.39},
+					{"county":"Ben Hill","percent":16.93},
+					{"county":"Berrien","percent":22.21},
+					{"county":"Bibb","percent":31.84},
+					{"county":"Bleckley","percent":17.34},
+					{"county":"Brantley","percent":11.11},
+					{"county":"Brooks","percent":20.86},
+					{"county":"Bryan","percent":38.00},
+					{"county":"Bulloch","percent":31.89},
+					{"county":"Burke","percent":12.38},
+					{"county":"Butts","percent":15.51},
+					{"county":"Calhoun","percent":13.52},
+					{"county":"Camden","percent":30.16},
+					{"county":"Candler","percent":17.94},
+					{"county":"Carroll","percent":24.96},
+					{"county":"Catoosa","percent":28.83},
+					{"county":"Charlton","percent":11.70},
+					{"county":"Chatham","percent":38.35},
+					{"county":"Chattahoochee","percent":45.03},
+					{"county":"Chattooga","percent":17.05},
+					{"county":"Cherokee","percent":43.56},
+					{"county":"Clarke","percent":47.04},
+					{"county":"Clay","percent":16.30},
+					{"county":"Clayton","percent":25.89},
+					{"county":"Clinch","percent":23.20},
+					{"county":"Cobb","percent":52.94},
+					{"county":"Coffee","percent":20.45},
+					{"county":"Colquitt","percent":17.97},
+					{"county":"Columbia","percent":45.20},
+					{"county":"Cook","percent":17.20},
+					{"county":"Coweta","percent":35.56},
+					{"county":"Crawford","percent":20.43},
+					{"county":"Crisp","percent":19.17},
+					{"county":"Dade","percent":25.52},
+					{"county":"Dawson","percent":22.78},
+					{"county":"Decatur","percent":22.17},
+					{"county":"DeKalb","percent":47.22},
+					{"county":"Dodge","percent":22.79},
+					{"county":"Dooly","percent":15.65},
+					{"county":"Dougherty","percent":27.23},
+					{"county":"Douglas","percent":33.78},
+					{"county":"Early","percent":25.71},
+					{"county":"Echols","percent":10.94},
+					{"county":"Effingham","percent":23.95},
+					{"county":"Elbert","percent":17.22},
+					{"county":"Emanuel","percent":18.25},
+					{"county":"Evans","percent":21.40},
+					{"county":"Fannin","percent":22.91},
+					{"county":"Fayette","percent":54.46},
+					{"county":"Floyd","percent":24.85},
+					{"county":"Forsyth","percent":53.80},
+					{"county":"Franklin","percent":20.48},
+					{"county":"Fulton","percent":55.00},
+					{"county":"Gilmer","percent":17.63},
+					{"county":"Glascock","percent":19.24},
+					{"county":"Glynn","percent":33.19},
+					{"county":"Gordon","percent":18.31},
+					{"county":"Grady","percent":19.23},
+					{"county":"Greene","percent":20.56},
+					{"county":"Gwinnett","percent":45.52},
+					{"county":"Habersham","percent":26.09},
+					{"county":"Hall","percent":27.50},
+					{"county":"Hancock","percent":14.59},
+					{"county":"Haralson","percent":16.95},
+					{"county":"Harris","percent":38.83},
+					{"county":"Hart","percent":22.10},
+					{"county":"Heard","percent":15.83},
+					{"county":"Henry","percent":34.92},
+					{"county":"Houston","percent":36.37},
+					{"county":"Irwin","percent":17.57},
+					{"county":"Jackson","percent":26.08},
+					{"county":"Jasper","percent":18.90},
+					{"county":"Jeff Davis","percent":18.97},
+					{"county":"Jefferson","percent":13.33},
+					{"county":"Jenkins","percent":23.20},
+					{"county":"Johnson","percent":15.07},
+					{"county":"Jones","percent":27.52},
+					{"county":"Lamar","percent":16.11},
+					{"county":"Lanier","percent":17.78},
+					{"county":"Laurens","percent":23.29},
+					{"county":"Lee","percent":28.64},
+					{"county":"Liberty","percent":28.74},
+					{"county":"Lincoln","percent":18.94},
+					{"county":"Long","percent":13.44},
+					{"county":"Lowndes","percent":31.38},
+					{"county":"Lumpkin","percent":26.10},
+					{"county":"McDuffie","percent":19.26},
+					{"county":"McIntosh","percent":22.24},
+					{"county":"Macon","percent":15.73},
+					{"county":"Madison","percent":19.41},
+					{"county":"Marion","percent":12.82},
+					{"county":"Meriwether","percent":11.97},
+					{"county":"Miller","percent":18.27},
+					{"county":"Mitchell","percent":15.15},
+					{"county":"Monroe","percent":24.71},
+					{"county":"Montgomery","percent":26.51},
+					{"county":"Morgan","percent":30.53},
+					{"county":"Murray","percent":11.25},
+					{"county":"Muscogee","percent":30.96},
+					{"county":"Newton","percent":28.19},
+					{"county":"Oconee","percent":53.15},
+					{"county":"Oglethorpe","percent":18.81},
+					{"county":"Paulding","percent":29.26},
+					{"county":"Peach","percent":27.38},
+					{"county":"Pickens","percent":26.33},
+					{"county":"Pierce","percent":16.21},
+					{"county":"Pike","percent":21.21},
+					{"county":"Polk","percent":17.17},
+					{"county":"Pulaski","percent":14.58},
+					{"county":"Putnam","percent":26.81},
+					{"county":"Quitman","percent":13.14},
+					{"county":"Rabun","percent":29.33},
+					{"county":"Randolph","percent":20.94},
+					{"county":"Richmond","percent":29.55},
+					{"county":"Rockdale","percent":34.40},
+					{"county":"Schley","percent":21.26},
+					{"county":"Screven","percent":14.82},
+					{"county":"Seminole","percent":16.67},
+					{"county":"Spalding","percent":20.33},
+					{"county":"Stephens","percent":20.99},
+					{"county":"Stewart","percent":16.35},
+					{"county":"Sumter","percent":24.94},
+					{"county":"Talbot","percent":15.58},
+					{"county":"Taliaferro","percent":12.26},
+					{"county":"Tattnall","percent":15.46},
+					{"county":"Taylor","percent":10.88},
+					{"county":"Telfair","percent":16.91},
+					{"county":"Terrell","percent":18.04},
+					{"county":"Thomas","percent":26.63},
+					{"county":"Tift","percent":26.39},
+					{"county":"Toombs","percent":23.27},
+					{"county":"Towns","percent":29.37},
+					{"county":"Treutlen","percent":17.26},
+					{"county":"Troup","percent":26.84},
+					{"county":"Turner","percent":19.96},
+					{"county":"Twiggs","percent":14.14},
+					{"county":"Union","percent":31.28},
+					{"county":"Upson","percent":16.90},
+					{"county":"Walker","percent":20.52},
+					{"county":"Walton","percent":25.70},
+					{"county":"Ware","percent":19.39},
+					{"county":"Warren","percent":10.96},
+					{"county":"Washington","percent":13.73},
+					{"county":"Wayne","percent":18.27},
+					{"county":"Webster","percent":17.59},
+					{"county":"Wheeler","percent":15.80},
+					{"county":"White","percent":27.73},
+					{"county":"Whitfield","percent":21.40},
+					{"county":"Wilcox","percent":11.80},
+					{"county":"Wilkes","percent":21.16},
+					{"county":"Wilkinson","percent":17.85},
+					{"county":"Worth","percent":16.01}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"hawaii": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"20,341","percent":"2.79%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"33,066","percent":"4.54%"},
+					{"label":"High school graduate (including equivalency)","total":"197,491","percent":"27.10%"},
+					{"label":"Some college, no degree","total":"174,559","percent":"23.95%"},
+					{"label":"Associate degree","total":"76,815","percent":"10.54%"},
+					{"label":"Bachelor's degree","total":"156,400","percent":"21.46%"},
+					{"label":"Graduate or professional degree","total":"70,130","percent":"9.62%"},
+					{"label":"TOTAL","total":"728,802","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"52.00%"},
+					{"ethnicity":"Black","percent":"45.92%"},
+					{"ethnicity":"Hispanic","percent":"29.52%"},
+					{"ethnicity":"Asian","percent":"42.19%"},
+					{"ethnicity":"Native American","percent":"40.34%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 38.2},
+						{"year": 2010, "percent": 41.6},
+						{"year": 2011, "percent": 42.0},
+						{"year": 2012, "percent": 42.3},
+						{"year": 2013, "percent": 42.7},
+						{"year": 2014, "percent": 43.0},
+						{"year": 2015, "percent": 43.3},
+						{"year": 2016, "percent": 43.7},
+						{"year": 2017, "percent": 44.0},
+						{"year": 2018, "percent": 44.4},
+						{"year": 2019, "percent": 44.7},
+						{"year": 2020, "percent": 45.1},
+						{"year": 2021, "percent": 45.4},
+						{"year": 2022, "percent": 45.8},
+						{"year": 2023, "percent": 46.1},
+						{"year": 2024, "percent": 46.4},
+						{"year": 2025, "percent": 46.8}
+					],
+					"targets": [
+						{"year": 2010, "percent": 41.6},
+						{"year": 2011, "percent": 42.8},
+						{"year": 2012, "percent": 44.1},
+						{"year": 2013, "percent": 45.3},
+						{"year": 2014, "percent": 46.5},
+						{"year": 2015, "percent": 47.7},
+						{"year": 2016, "percent": 49.0},
+						{"year": 2017, "percent": 50.2},
+						{"year": 2018, "percent": 51.4},
+						{"year": 2019, "percent": 52.6},
+						{"year": 2020, "percent": 53.9},
+						{"year": 2021, "percent": 55.1},
+						{"year": 2022, "percent": 56.3},
+						{"year": 2023, "percent": 57.5},
+						{"year": 2024, "percent": 58.8},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Hawaii","percent":39.60},
+					{"county":"Honolulu","percent":44.64},
+					{"county":"Kalawao","percent":53.33},
+					{"county":"Kauai","percent":36.35},
+					{"county":"Maui","percent":35.73}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
 
 	}
 }
