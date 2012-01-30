@@ -16,9 +16,9 @@
 
 		"bar-trend": {
 			"data": [
-				{"year": 2008,"percent": },
-				{"year": 2009,"percent": },
-				{"year": 2010,"percent": }
+				{"year": 2008,"percent": 0},
+				{"year": 2009,"percent": 0},
+				{"year": 2010,"percent": 0}
 			],
 			"source": "Source: U.S. Census Bureau, more description to come later for this"
 		},
@@ -31,7 +31,7 @@
 				{"ethnicity": "Asian","percent": 59.36},
 				{"ethnicity": "Native American","percent": 22.83}
 			],
-			"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"	
+			"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
 		},
 
 		"line": {
@@ -77,614 +77,614 @@
 			"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey"
 		}
 	},
-  
+
 	"metro areas": {
 		"data": [
 			{
-				"rank": 1, 
-				"precent": 45.88, 
-				"population": 18897109, 
+				"rank": 1,
+				"percent": 45.88,
+				"population": 18897109,
 				"area": "New York-Northern New Jersey-Long Island, NY-NJ-PA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 2, 
-				"precent": 38.96, 
-				"population": 12828837, 
+				"rank": 2,
+				"percent": 38.96,
+				"population": 12828837,
 				"area": "Los Angeles-Long Beach-Santa Ana, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 3, 
-				"precent": 43.59, 
-				"population": 9461105, 
+				"rank": 3,
+				"percent": 43.59,
+				"population": 9461105,
 				"area": "Chicago-Joliet-Naperville, IL-IN-WI  Metro Area"
-			}, 
+			},
 			{
-				"rank": 4, 
-				"precent": 38.66, 
-				"population": 6371773, 
+				"rank": 4,
+				"percent": 38.66,
+				"population": 6371773,
 				"area": "Dallas-Fort Worth-Arlington, TX  Metro Area"
-			}, 
+			},
 			{
-				"rank": 5, 
-				"precent": 42.65, 
-				"population": 5965343, 
+				"rank": 5,
+				"percent": 42.65,
+				"population": 5965343,
 				"area": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD  Metro Area"
-			}, 
+			},
 			{
-				"rank": 6, 
-				"precent": 35.25, 
-				"population": 5946800, 
+				"rank": 6,
+				"percent": 35.25,
+				"population": 5946800,
 				"area": "Houston-Sugar Land-Baytown, TX  Metro Area"
-			}, 
+			},
 			{
-				"rank": 7, 
-				"precent": 54.37, 
-				"population": 5582170, 
+				"rank": 7,
+				"percent": 54.37,
+				"population": 5582170,
 				"area": "Washington-Arlington-Alexandria, DC-VA-MD-WV  Metro Area"
-			}, 
+			},
 			{
-				"rank": 8, 
-				"precent": 39.65, 
-				"population": 5564635, 
+				"rank": 8,
+				"percent": 39.65,
+				"population": 5564635,
 				"area": "Miami-Fort Lauderdale-Pompano Beach, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 9, 
-				"precent": 43.39, 
-				"population": 5268860, 
+				"rank": 9,
+				"percent": 43.39,
+				"population": 5268860,
 				"area": "Atlanta-Sandy Springs-Marietta, GA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 10, 
-				"precent": 54.01, 
-				"population": 4552402, 
+				"rank": 10,
+				"percent": 54.01,
+				"population": 4552402,
 				"area": "Boston-Cambridge-Quincy, MA-NH  Metro Area"
-			}, 
+			},
 			{
-				"rank": 11, 
-				"precent": 52.91, 
-				"population": 4335391, 
+				"rank": 11,
+				"percent": 52.91,
+				"population": 4335391,
 				"area": "San Francisco-Oakland-Fremont, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 12, 
-				"precent": 37.86, 
-				"population": 4296250, 
+				"rank": 12,
+				"percent": 37.86,
+				"population": 4296250,
 				"area": "Detroit-Warren-Livonia, MI  Metro Area"
-			}, 
+			},
 			{
-				"rank": 13, 
-				"precent": 27.54, 
-				"population": 4224851, 
+				"rank": 13,
+				"percent": 27.54,
+				"population": 4224851,
 				"area": "Riverside-San Bernardino-Ontario, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 14, 
-				"precent": 37.3, 
-				"population": 4192887, 
+				"rank": 14,
+				"percent": 37.3,
+				"population": 4192887,
 				"area": "Phoenix-Mesa-Glendale, AZ  Metro Area"
-			}, 
+			},
 			{
-				"rank": 15, 
-				"precent": 47.97, 
-				"population": 3439809, 
+				"rank": 15,
+				"percent": 47.97,
+				"population": 3439809,
 				"area": "Seattle-Tacoma-Bellevue, WA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 16, 
-				"precent": 50.06, 
-				"population": 3279833, 
+				"rank": 16,
+				"percent": 50.06,
+				"population": 3279833,
 				"area": "Minneapolis-St. Paul-Bloomington, MN-WI  Metro Area"
-			}, 
+			},
 			{
-				"rank": 17, 
-				"precent": 43.95, 
-				"population": 3095313, 
+				"rank": 17,
+				"percent": 43.95,
+				"population": 3095313,
 				"area": "San Diego-Carlsbad-San Marcos, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 18, 
-				"precent": 41.15, 
-				"population": 2812896, 
+				"rank": 18,
+				"percent": 41.15,
+				"population": 2812896,
 				"area": "St. Louis, MO-IL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 19, 
-				"precent": 37.56, 
-				"population": 2783243, 
+				"rank": 19,
+				"percent": 37.56,
+				"population": 2783243,
 				"area": "Tampa-St. Petersburg-Clearwater, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 20, 
-				"precent": 43.9, 
-				"population": 2710489, 
+				"rank": 20,
+				"percent": 43.9,
+				"population": 2710489,
 				"area": "Baltimore-Towson, MD  Metro Area"
-			}, 
+			},
 			{
-				"rank": 21, 
-				"precent": 47.39, 
-				"population": 2543482, 
+				"rank": 21,
+				"percent": 47.39,
+				"population": 2543482,
 				"area": "Denver-Aurora-Broomfield, CO  Metro Area"
-			}, 
+			},
 			{
-				"rank": 22, 
-				"precent": 36.92, 
-				"population": 2478905, 
+				"rank": 22,
+				"percent": 36.92,
+				"population": 2478905,
 				"area": "San Juan-Caguas-Guaynabo, PR  Metro Area"
-			}, 
+			},
 			{
-				"rank": 23, 
-				"precent": 43.56, 
-				"population": 2356285, 
+				"rank": 23,
+				"percent": 43.56,
+				"population": 2356285,
 				"area": "Pittsburgh, PA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 24, 
-				"precent": 43.82, 
-				"population": 2226009, 
+				"rank": 24,
+				"percent": 43.82,
+				"population": 2226009,
 				"area": "Portland-Vancouver-Hillsboro, OR-WA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 25, 
-				"precent": 40.65, 
-				"population": 2149127, 
+				"rank": 25,
+				"percent": 40.65,
+				"population": 2149127,
 				"area": "Sacramento--Arden-Arcade--Roseville, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 26, 
-				"precent": 33.88, 
-				"population": 2142508, 
+				"rank": 26,
+				"percent": 33.88,
+				"population": 2142508,
 				"area": "San Antonio-New Braunfels, TX  Metro Area"
-			}, 
+			},
 			{
-				"rank": 27, 
-				"precent": 39.55, 
-				"population": 2134411, 
+				"rank": 27,
+				"percent": 39.55,
+				"population": 2134411,
 				"area": "Orlando-Kissimmee-Sanford, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 28, 
-				"precent": 39.37, 
-				"population": 2130151, 
+				"rank": 28,
+				"percent": 39.37,
+				"population": 2130151,
 				"area": "Cincinnati-Middletown, OH-KY-IN  Metro Area"
-			}, 
+			},
 			{
-				"rank": 29, 
-				"precent": 38.65, 
-				"population": 2077240, 
+				"rank": 29,
+				"percent": 38.65,
+				"population": 2077240,
 				"area": "Cleveland-Elyria-Mentor, OH  Metro Area"
-			}, 
+			},
 			{
-				"rank": 30, 
-				"precent": 42.52, 
-				"population": 2035334, 
+				"rank": 30,
+				"percent": 42.52,
+				"population": 2035334,
 				"area": "Kansas City, MO-KS  Metro Area"
-			}, 
+			},
 			{
-				"rank": 31, 
-				"precent": 29.67, 
-				"population": 1951269, 
+				"rank": 31,
+				"percent": 29.67,
+				"population": 1951269,
 				"area": "Las Vegas-Paradise, NV  Metro Area"
-			}, 
+			},
 			{
-				"rank": 32, 
-				"precent": 54.08, 
-				"population": 1836911, 
+				"rank": 32,
+				"percent": 54.08,
+				"population": 1836911,
 				"area": "San Jose-Sunnyvale-Santa Clara, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 33, 
-				"precent": 42.83, 
-				"population": 1836536, 
+				"rank": 33,
+				"percent": 42.83,
+				"population": 1836536,
 				"area": "Columbus, OH  Metro Area"
-			}, 
+			},
 			{
-				"rank": 34, 
-				"precent": 43.16, 
-				"population": 1758038, 
+				"rank": 34,
+				"percent": 43.16,
+				"population": 1758038,
 				"area": "Charlotte-Gastonia-Rock Hill, NC-SC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 35, 
-				"precent": 41.0, 
-				"population": 1756241, 
+				"rank": 35,
+				"percent": 41.0,
+				"population": 1756241,
 				"area": "Indianapolis-Carmel, IN  Metro Area"
-			}, 
+			},
 			{
-				"rank": 36, 
-				"precent": 46.97, 
-				"population": 1716289, 
+				"rank": 36,
+				"percent": 46.97,
+				"population": 1716289,
 				"area": "Austin-Round Rock-San Marcos, TX  Metro Area"
-			}, 
+			},
 			{
-				"rank": 37, 
-				"precent": 38.2, 
-				"population": 1671683, 
+				"rank": 37,
+				"percent": 38.2,
+				"population": 1671683,
 				"area": "Virginia Beach-Norfolk-Newport News, VA-NC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 38, 
-				"precent": 40.28, 
-				"population": 1600852, 
+				"rank": 38,
+				"percent": 40.28,
+				"population": 1600852,
 				"area": "Providence-New Bedford-Fall River, RI-MA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 39, 
-				"precent": 39.06, 
-				"population": 1589934, 
+				"rank": 39,
+				"percent": 39.06,
+				"population": 1589934,
 				"area": "Nashville-Davidson--Murfreesboro--Franklin, TN  Metro Area"
-			}, 
+			},
 			{
-				"rank": 40, 
-				"precent": 42.09, 
-				"population": 1555908, 
+				"rank": 40,
+				"percent": 42.09,
+				"population": 1555908,
 				"area": "Milwaukee-Waukesha-West Allis, WI  Metro Area"
-			}, 
+			},
 			{
-				"rank": 41, 
-				"precent": 36.5, 
-				"population": 1345596, 
+				"rank": 41,
+				"percent": 36.5,
+				"population": 1345596,
 				"area": "Jacksonville, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 42, 
-				"precent": 33.28, 
-				"population": 1316100, 
+				"rank": 42,
+				"percent": 33.28,
+				"population": 1316100,
 				"area": "Memphis, TN-MS-AR  Metro Area"
-			}, 
+			},
 			{
-				"rank": 43, 
-				"precent": 34.85, 
-				"population": 1283566, 
+				"rank": 43,
+				"percent": 34.85,
+				"population": 1283566,
 				"area": "Louisville/Jefferson County, KY-IN  Metro Area"
-			}, 
+			},
 			{
-				"rank": 44, 
-				"precent": 39.61, 
-				"population": 1258251, 
+				"rank": 44,
+				"percent": 39.61,
+				"population": 1258251,
 				"area": "Richmond, VA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 45, 
-				"precent": 35.19, 
-				"population": 1252987, 
+				"rank": 45,
+				"percent": 35.19,
+				"population": 1252987,
 				"area": "Oklahoma City, OK  Metro Area"
-			}, 
+			},
 			{
-				"rank": 46, 
-				"precent": 46.28, 
-				"population": 1212381, 
+				"rank": 46,
+				"percent": 46.28,
+				"population": 1212381,
 				"area": "Hartford-West Hartford-East Hartford, CT  Metro Area"
-			}, 
+			},
 			{
-				"rank": 47, 
-				"precent": 33.7, 
-				"population": 1167764, 
+				"rank": 47,
+				"percent": 33.7,
+				"population": 1167764,
 				"area": "New Orleans-Metairie-Kenner, LA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 48, 
-				"precent": 44.14, 
-				"population": 1135509, 
+				"rank": 48,
+				"percent": 44.14,
+				"population": 1135509,
 				"area": "Buffalo-Niagara Falls, NY  Metro Area"
-			}, 
+			},
 			{
-				"rank": 49, 
-				"precent": 52.72, 
-				"population": 1130490, 
+				"rank": 49,
+				"percent": 52.72,
+				"population": 1130490,
 				"area": "Raleigh-Cary, NC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 50, 
-				"precent": 36.92, 
-				"population": 1128047, 
+				"rank": 50,
+				"percent": 36.92,
+				"population": 1128047,
 				"area": "Birmingham-Hoover, AL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 51, 
-				"precent": 39.64, 
-				"population": 1124197, 
+				"rank": 51,
+				"percent": 39.64,
+				"population": 1124197,
 				"area": "Salt Lake City, UT  Metro Area"
-			}, 
+			},
 			{
-				"rank": 52, 
-				"precent": 46.9, 
-				"population": 1054323, 
+				"rank": 52,
+				"percent": 46.9,
+				"population": 1054323,
 				"area": "Rochester, NY  Metro Area"
-			}, 
+			},
 			{
-				"rank": 53, 
-				"precent": 37.77, 
-				"population": 980263, 
+				"rank": 53,
+				"percent": 37.77,
+				"population": 980263,
 				"area": "Tucson, AZ  Metro Area"
-			}, 
+			},
 			{
-				"rank": 54, 
-				"precent": 44.5, 
-				"population": 953207, 
+				"rank": 54,
+				"percent": 44.5,
+				"population": 953207,
 				"area": "Honolulu, HI  Metro Area"
-			}, 
+			},
 			{
-				"rank": 55, 
-				"precent": 35.55, 
-				"population": 937478, 
+				"rank": 55,
+				"percent": 35.55,
+				"population": 937478,
 				"area": "Tulsa, OK  Metro Area"
-			}, 
+			},
 			{
-				"rank": 56, 
-				"precent": 28.71, 
-				"population": 930450, 
+				"rank": 56,
+				"percent": 28.71,
+				"population": 930450,
 				"area": "Fresno, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 57, 
-				"precent": 53.29, 
-				"population": 916829, 
+				"rank": 57,
+				"percent": 53.29,
+				"population": 916829,
 				"area": "Bridgeport-Stamford-Norwalk, CT  Metro Area"
-			}, 
+			},
 			{
-				"rank": 58, 
-				"precent": 37.68, 
-				"population": 887077, 
+				"rank": 58,
+				"percent": 37.68,
+				"population": 887077,
 				"area": "Albuquerque, NM  Metro Area"
-			}, 
+			},
 			{
-				"rank": 59, 
-				"precent": 48.94, 
-				"population": 870716, 
+				"rank": 59,
+				"percent": 48.94,
+				"population": 870716,
 				"area": "Albany-Schenectady-Troy, NY  Metro Area"
-			}, 
+			},
 			{
-				"rank": 60, 
-				"precent": 43.82, 
-				"population": 865350, 
+				"rank": 60,
+				"percent": 43.82,
+				"population": 865350,
 				"area": "Omaha-Council Bluffs, NE-IA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 61, 
-				"precent": 42.99, 
-				"population": 862477, 
+				"rank": 61,
+				"percent": 42.99,
+				"population": 862477,
 				"area": "New Haven-Milford, CT  Metro Area"
-			}, 
+			},
 			{
-				"rank": 62, 
-				"precent": 36.67, 
-				"population": 841502, 
+				"rank": 62,
+				"percent": 36.67,
+				"population": 841502,
 				"area": "Dayton, OH  Metro Area"
-			}, 
+			},
 			{
-				"rank": 63, 
-				"precent": 21.33, 
-				"population": 839631, 
+				"rank": 63,
+				"percent": 21.33,
+				"population": 839631,
 				"area": "Bakersfield-Delano, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 64, 
-				"precent": 40.11, 
-				"population": 823318, 
+				"rank": 64,
+				"percent": 40.11,
+				"population": 823318,
 				"area": "Oxnard-Thousand Oaks-Ventura, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 65, 
-				"precent": 38.76, 
-				"population": 821173, 
+				"rank": 65,
+				"percent": 38.76,
+				"population": 821173,
 				"area": "Allentown-Bethlehem-Easton, PA-NJ  Metro Area"
-			}, 
+			},
 			{
-				"rank": 66, 
-				"precent": 31.65, 
-				"population": 802484, 
+				"rank": 66,
+				"percent": 31.65,
+				"population": 802484,
 				"area": "Baton Rouge, LA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 67, 
-				"precent": 28.05, 
-				"population": 800647, 
+				"rank": 67,
+				"percent": 28.05,
+				"population": 800647,
 				"area": "El Paso, TX  Metro Area"
-			}, 
+			},
 			{
-				"rank": 68, 
-				"precent": 46.32, 
-				"population": 798552, 
+				"rank": 68,
+				"percent": 46.32,
+				"population": 798552,
 				"area": "Worcester, MA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 69, 
-				"precent": 20.78, 
-				"population": 774769, 
+				"rank": 69,
+				"percent": 20.78,
+				"population": 774769,
 				"area": "McAllen-Edinburg-Mission, TX  Metro Area"
-			}, 
+			},
 			{
-				"rank": 70, 
-				"precent": 37.62, 
-				"population": 774160, 
+				"rank": 70,
+				"percent": 37.62,
+				"population": 774160,
 				"area": "Grand Rapids-Wyoming, MI  Metro Area"
-			}, 
+			},
 			{
-				"rank": 71, 
-				"precent": 40.59, 
-				"population": 767598, 
+				"rank": 71,
+				"percent": 40.59,
+				"population": 767598,
 				"area": "Columbia, SC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 72, 
-				"precent": 35.3, 
-				"population": 723801, 
+				"rank": 72,
+				"percent": 35.3,
+				"population": 723801,
 				"area": "Greensboro-High Point, NC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 73, 
-				"precent": 39.93, 
-				"population": 703200, 
+				"rank": 73,
+				"percent": 39.93,
+				"population": 703200,
 				"area": "Akron, OH  Metro Area"
-			}, 
+			},
 			{
-				"rank": 74, 
-				"precent": 36.47, 
-				"population": 702281, 
+				"rank": 74,
+				"percent": 36.47,
+				"population": 702281,
 				"area": "North Port-Bradenton-Sarasota, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 75, 
-				"precent": 35.18, 
-				"population": 699757, 
+				"rank": 75,
+				"percent": 35.18,
+				"population": 699757,
 				"area": "Little Rock-North Little Rock-Conway, AR  Metro Area"
-			}, 
+			},
 			{
-				"rank": 76, 
-				"precent": 38.86, 
-				"population": 698030, 
+				"rank": 76,
+				"percent": 38.86,
+				"population": 698030,
 				"area": "Knoxville, TN  Metro Area"
-			}, 
+			},
 			{
-				"rank": 77, 
-				"precent": 41.17, 
-				"population": 692942, 
+				"rank": 77,
+				"percent": 41.17,
+				"population": 692942,
 				"area": "Springfield, MA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 78, 
-				"precent": 26.11, 
-				"population": 685306, 
+				"rank": 78,
+				"percent": 26.11,
+				"population": 685306,
 				"area": "Stockton, CA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 79, 
-				"precent": 42.77, 
-				"population": 670301, 
+				"rank": 79,
+				"percent": 42.77,
+				"population": 670301,
 				"area": "Poughkeepsie-Newburgh-Middletown, NY  Metro Area"
-			}, 
+			},
 			{
-				"rank": 80, 
-				"precent": 40.75, 
-				"population": 664607, 
+				"rank": 80,
+				"percent": 40.75,
+				"population": 664607,
 				"area": "Charleston-North Charleston-Summerville, SC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 81, 
-				"precent": 43.53, 
-				"population": 662577, 
+				"rank": 81,
+				"percent": 43.53,
+				"population": 662577,
 				"area": "Syracuse, NY  Metro Area"
-			}, 
+			},
 			{
-				"rank": 82, 
-				"precent": 34.82, 
-				"population": 651429, 
+				"rank": 82,
+				"percent": 34.82,
+				"population": 651429,
 				"area": "Toledo, OH  Metro Area"
-			}, 
+			},
 			{
-				"rank": 83, 
-				"precent": 46.38, 
-				"population": 645613, 
+				"rank": 83,
+				"percent": 46.38,
+				"population": 645613,
 				"area": "Colorado Springs, CO  Metro Area"
-			}, 
+			},
 			{
-				"rank": 84, 
-				"precent": 38.58, 
-				"population": 636986, 
+				"rank": 84,
+				"percent": 38.58,
+				"population": 636986,
 				"area": "Greenville-Mauldin-Easley, SC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 85, 
-				"precent": 36.58, 
-				"population": 623061, 
+				"rank": 85,
+				"percent": 36.58,
+				"population": 623061,
 				"area": "Wichita, KS  Metro Area"
-			}, 
+			},
 			{
-				"rank": 86, 
-				"precent": 32.46, 
-				"population": 618754, 
+				"rank": 86,
+				"percent": 32.46,
+				"population": 618754,
 				"area": "Cape Coral-Fort Myers, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 87, 
-				"precent": 37.85, 
-				"population": 616561, 
+				"rank": 87,
+				"percent": 37.85,
+				"population": 616561,
 				"area": "Boise City-Nampa, ID  Metro Area"
-			}, 
+			},
 			{
-				"rank": 88, 
-				"precent": 27.57, 
-				"population": 602095, 
+				"rank": 88,
+				"percent": 27.57,
+				"population": 602095,
 				"area": "Lakeland-Winter Haven, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 89, 
-				"precent": 46.86, 
-				"population": 569633, 
+				"rank": 89,
+				"percent": 46.86,
+				"population": 569633,
 				"area": "Des Moines-West Des Moines, IA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 90, 
-				"precent": 53.74, 
-				"population": 568593, 
+				"rank": 90,
+				"percent": 53.74,
+				"population": 568593,
 				"area": "Madison, WI  Metro Area"
-			}, 
+			},
 			{
-				"rank": 91, 
-				"precent": 28.71, 
-				"population": 565773, 
+				"rank": 91,
+				"percent": 28.71,
+				"population": 565773,
 				"area": "Youngstown-Warren-Boardman, OH-PA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 92, 
-				"precent": 34.5, 
-				"population": 563631, 
+				"rank": 92,
+				"percent": 34.5,
+				"population": 563631,
 				"area": "Scranton--Wilkes-Barre, PA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 93, 
-				"precent": 32.58, 
-				"population": 556877, 
+				"rank": 93,
+				"percent": 32.58,
+				"population": 556877,
 				"area": "Augusta-Richmond County, GA-SC  Metro Area"
-			}, 
+			},
 			{
-				"rank": 94, 
-				"precent": 39.68, 
-				"population": 549475, 
+				"rank": 94,
+				"percent": 39.68,
+				"population": 549475,
 				"area": "Harrisburg-Carlisle, PA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 95, 
-				"precent": 40.09, 
-				"population": 547184, 
+				"rank": 95,
+				"percent": 40.09,
+				"population": 547184,
 				"area": "Ogden-Clearfield, UT  Metro Area"
-			}, 
+			},
 			{
-				"rank": 96, 
-				"precent": 39.37, 
-				"population": 543376, 
+				"rank": 96,
+				"percent": 39.37,
+				"population": 543376,
 				"area": "Palm Bay-Melbourne-Titusville, FL  Metro Area"
-			}, 
+			},
 			{
-				"rank": 97, 
-				"precent": 38.78, 
-				"population": 539057, 
+				"rank": 97,
+				"percent": 38.78,
+				"population": 539057,
 				"area": "Jackson, MS  Metro Area"
-			}, 
+			},
 			{
-				"rank": 98, 
-				"precent": 32.34, 
-				"population": 528143, 
+				"rank": 98,
+				"percent": 32.34,
+				"population": 528143,
 				"area": "Chattanooga, TN-GA  Metro Area"
-			}, 
+			},
 			{
-				"rank": 99, 
-				"precent": 46.97, 
-				"population": 526810, 
+				"rank": 99,
+				"percent": 46.97,
+				"population": 526810,
 				"area": "Provo-Orem, UT  Metro Area"
-			}, 
+			},
 			{
-				"rank": 100, 
-				"precent": 32.21, 
-				"population": 519445, 
+				"rank": 100,
+				"percent": 32.21,
+				"population": 519445,
 				"area": "Lancaster, PA  Metro Area"
 			}
 		],
 
 		"source": "Source:  U.S. Census Bureau, 2010 Census and 2008-10 American Community Survey Three-Year Estimates"
 	},
-	
+
 	"states": {
 		"alabama": {
 			"pie": {
@@ -703,9 +703,9 @@
 
 			"bar-trend": {
 				"data": [
-					{"year": 2008,"percent": },
-					{"year": 2009,"percent": },
-					{"year": 2010,"percent": }
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
 				],
 				"source": "Source: U.S. Census Bureau, more description to come later for this"
 			},
@@ -854,9 +854,9 @@
 
 			"bar-trend": {
 				"data": [
-					{"year": 2008,"percent": },
-					{"year": 2009,"percent": },
-					{"year": 2010,"percent": }
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
 				],
 				"source": "Source: U.S. Census Bureau, more description to come later for this"
 			},
@@ -893,8 +893,8 @@
 						{"year": 2024, "percent": 43.1},
 						{"year": 2025, "percent": 43.5}
 					],
-					"targets": 
- 						{"year": 2010, "percent": 37.3},
+					"targets": [
+						{"year": 2010, "percent": 37.3},
 						{"year": 2011, "percent": 38.8},
 						{"year": 2012, "percent": 40.3},
 						{"year": 2013, "percent": 41.8},
@@ -967,20 +967,20 @@
 
 			"bar-trend": {
 				"data": [
-					{"year": 2008,"percent": },
-					{"year": 2009,"percent": },
-					{"year": 2010,"percent": }
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
 				],
 				"source": "Source: U.S. Census Bureau, more description to come later for this"
 			},
 
 			"bar-rates": {
 				"data": [
-					{"ethnicity":"White","precent":"43.28%"},
-					{"ethnicity":"Black","precent":"34.49%"},
-					{"ethnicity":"Hispanic","precent":"16.98%"},
-					{"ethnicity":"Asian","precent":"59.55%"},
-					{"ethnicity":"Native American","precent":"15.43%"}
+					{"ethnicity":"White","percent":"43.28%"},
+					{"ethnicity":"Black","percent":"34.49%"},
+					{"ethnicity":"Hispanic","percent":"16.98%"},
+					{"ethnicity":"Asian","percent":"59.55%"},
+					{"ethnicity":"Native American","percent":"15.43%"}
 				],
 				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
 			},
@@ -1052,34 +1052,34 @@
 		"arkansas": {
 			"pie": {
 				"data": [
-					{"label":"Less than ninth grade","total":"184,819","percent":"5.67%"},
-					{"label":"Ninth to 12th grade, no diploma","total":"266,365","percent":"8.17%"},
-					{"label":"High school graduate (including equivalency)","total":"780,448","percent":"23.94%"},
-					{"label":"Some college, no degree","total":"883,777","percent":"27.11%"},
-					{"label":"Associate degree","total":"287,734","percent":"8.83%"},
-					{"label":"Bachelor's degree","total":"564,835","percent":"17.33%"},
-					{"label":"Graduate or professional degree","total":"291,985","percent":"8.96%"},
-					{"label":"TOTAL","total":"3,259,963","percent":"100%"}
+					{"label":"Less than ninth grade","total":"67,387","percent":"4.49%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"144,629","percent":"9.65%"},
+					{"label":"High school graduate (including equivalency)","total":"510,657","percent":"34.06%"},
+					{"label":"Some college, no degree","total":"358,003","percent":"23.88%"},
+					{"label":"Associate degree","total":"108,448","percent":"7.23%"},
+					{"label":"Bachelor's degree","total":"214,858","percent":"14.33%"},
+					{"label":"Graduate or professional degree","total":"95,365","percent":"6.36%"},
+					{"label":"TOTAL","total":"1,499,347","percent":"100%"}
 				],
 				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 			},
 
 			"bar-trend": {
 				"data": [
-					{"year": 2008,"percent": },
-					{"year": 2009,"percent": },
-					{"year": 2010,"percent": }
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
 				],
 				"source": "Source: U.S. Census Bureau, more description to come later for this"
 			},
 
 			"bar-rates": {
 				"data": [
-					{"ethnicity":"White","precent":"43.28%"},
-					{"ethnicity":"Black","precent":"34.49%"},
-					{"ethnicity":"Hispanic","precent":"16.98%"},
-					{"ethnicity":"Asian","precent":"59.55%"},
-					{"ethnicity":"Native American","precent":"15.43%"}
+					{"ethnicity":"White","percent":"29.39%"},
+					{"ethnicity":"Black","percent":"20.09%"},
+					{"ethnicity":"Hispanic","percent":"12.51%"},
+					{"ethnicity":"Asian","percent":"42.61%"},
+					{"ethnicity":"Native American","percent":"28.72%"}
 				],
 				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
 			},
@@ -1087,40 +1087,40 @@
 			"line": {
 				"data": {
 					"expected": [
-						{"year": 2000, "percent": 32.3},
-						{"year": 2010, "percent": 35.1},
-						{"year": 2011, "percent": 35.4},
-						{"year": 2012, "percent": 35.7},
-						{"year": 2013, "percent": 36.0},
-						{"year": 2014, "percent": 36.2},
-						{"year": 2015, "percent": 36.5},
-						{"year": 2016, "percent": 36.8},
-						{"year": 2017, "percent": 37.1},
-						{"year": 2018, "percent": 37.4},
-						{"year": 2019, "percent": 37.7},
-						{"year": 2020, "percent": 37.9},
-						{"year": 2021, "percent": 38.2},
-						{"year": 2022, "percent": 38.5},
-						{"year": 2023, "percent": 38.8},
-						{"year": 2024, "percent": 39.1},
-						{"year": 2025, "percent": 39.4}
+						{"year": 2000, "percent": 23.0},
+						{"year": 2010, "percent": 27.9},
+						{"year": 2011, "percent": 28.4},
+						{"year": 2012, "percent": 28.9},
+						{"year": 2013, "percent": 29.4},
+						{"year": 2014, "percent": 29.9},
+						{"year": 2015, "percent": 30.4},
+						{"year": 2016, "percent": 30.9},
+						{"year": 2017, "percent": 31.4},
+						{"year": 2018, "percent": 31.9},
+						{"year": 2019, "percent": 32.4},
+						{"year": 2020, "percent": 32.9},
+						{"year": 2021, "percent": 33.4},
+						{"year": 2022, "percent": 33.9},
+						{"year": 2023, "percent": 34.4},
+						{"year": 2024, "percent": 34.9},
+						{"year": 2025, "percent": 35.4}
 					],
 					"targets": [
-						{"year": 2010, "percent": 35.1},
-						{"year": 2011, "percent": 36.8},
-						{"year": 2012, "percent": 38.4},
-						{"year": 2013, "percent": 40.1},
-						{"year": 2014, "percent": 41.7},
-						{"year": 2015, "percent": 43.4},
-						{"year": 2016, "percent": 45.1},
-						{"year": 2017, "percent": 46.7},
-						{"year": 2018, "percent": 48.4},
-						{"year": 2019, "percent": 50.0},
-						{"year": 2020, "percent": 51.7},
-						{"year": 2021, "percent": 53.4},
-						{"year": 2022, "percent": 55.0},
-						{"year": 2023, "percent": 56.7},
-						{"year": 2024, "percent": 58.3},
+						{"year": 2010, "percent": 27.9},
+						{"year": 2011, "percent": 30.1},
+						{"year": 2012, "percent": 32.2},
+						{"year": 2013, "percent": 34.3},
+						{"year": 2014, "percent": 36.5},
+						{"year": 2015, "percent": 38.6},
+						{"year": 2016, "percent": 40.8},
+						{"year": 2017, "percent": 42.9},
+						{"year": 2018, "percent": 45.0},
+						{"year": 2019, "percent": 47.2},
+						{"year": 2020, "percent": 49.3},
+						{"year": 2021, "percent": 51.4},
+						{"year": 2022, "percent": 53.6},
+						{"year": 2023, "percent": 55.7},
+						{"year": 2024, "percent": 57.9},
 						{"year": 2025, "percent": 60.0}
 					]
 				},
@@ -1129,28 +1129,467 @@
 
 			"counties": {
 				"data": [
-					{"county":"Apache","percent":19.46},
-					{"county":"Cochise","percent":33.97},
-					{"county":"Coconino","percent":39.57},
-					{"county":"Gila","percent":24.33},
-					{"county":"Graham","percent":21.22},
-					{"county":"Greenlee","percent":23.65},
-					{"county":"La Paz","percent":14.32},
-					{"county":"Maricopa","percent":38.54},
-					{"county":"Mohave","percent":20.36},
-					{"county":"Navajo","percent":24.38},
-					{"county":"Pima","percent":38.58},
-					{"county":"Pinal","percent":27.56},
-					{"county":"Santa Cruz","percent":20.92},
-					{"county":"Yavapai","percent":32.31},
-					{"county":"Yuma","percent":21.67}
+					{"county":"Arkansas","percent":23.87},
+					{"county":"Ashley","percent":18.53},
+					{"county":"Baxter","percent":24.61},
+					{"county":"Benton","percent":34.07},
+					{"county":"Boone","percent":23.18},
+					{"county":"Bradley","percent":16.99},
+					{"county":"Calhoun","percent":15.85},
+					{"county":"Carroll","percent":23.03},
+					{"county":"Chicot","percent":15.76},
+					{"county":"Clark","percent":31.98},
+					{"county":"Clay","percent":16.52},
+					{"county":"Cleburne","percent":22.37},
+					{"county":"Cleveland","percent":20.97},
+					{"county":"Columbia","percent":30.23},
+					{"county":"Conway","percent":20.12},
+					{"county":"Craighead","percent":29.71},
+					{"county":"Crawford","percent":23.31},
+					{"county":"Crittenden","percent":20.62},
+					{"county":"Cross","percent":20.16},
+					{"county":"Dallas","percent":17.80},
+					{"county":"Desha","percent":19.71},
+					{"county":"Drew","percent":27.63},
+					{"county":"Faulkner","percent":35.50},
+					{"county":"Franklin","percent":16.87},
+					{"county":"Fulton","percent":18.02},
+					{"county":"Garland","percent":28.88},
+					{"county":"Grant","percent":22.32},
+					{"county":"Greene","percent":17.44},
+					{"county":"Hempstead","percent":20.85},
+					{"county":"Hot Spring","percent":22.75},
+					{"county":"Howard","percent":16.59},
+					{"county":"Independence","percent":22.10},
+					{"county":"Izard","percent":18.07},
+					{"county":"Jackson","percent":12.60},
+					{"county":"Jefferson","percent":22.33},
+					{"county":"Johnson","percent":19.26},
+					{"county":"Lafayette","percent":19.03},
+					{"county":"Lawrence","percent":15.75},
+					{"county":"Lee","percent":12.60},
+					{"county":"Lincoln","percent":13.45},
+					{"county":"Little River","percent":22.84},
+					{"county":"Logan","percent":19.79},
+					{"county":"Lonoke","percent":27.22},
+					{"county":"Madison","percent":17.27},
+					{"county":"Marion","percent":21.00},
+					{"county":"Miller","percent":17.86},
+					{"county":"Mississippi","percent":18.02},
+					{"county":"Monroe","percent":23.64},
+					{"county":"Montgomery","percent":22.54},
+					{"county":"Nevada","percent":19.65},
+					{"county":"Newton","percent":18.88},
+					{"county":"Ouachita","percent":20.08},
+					{"county":"Perry","percent":15.80},
+					{"county":"Phillips","percent":24.60},
+					{"county":"Pike","percent":20.49},
+					{"county":"Poinsett","percent":14.15},
+					{"county":"Polk","percent":18.51},
+					{"county":"Pope","percent":27.71},
+					{"county":"Prairie","percent":15.88},
+					{"county":"Pulaski","percent":39.50},
+					{"county":"Randolph","percent":21.97},
+					{"county":"St. Francis","percent":17.59},
+					{"county":"Saline","percent":30.41},
+					{"county":"Scott","percent":14.62},
+					{"county":"Searcy","percent":16.39},
+					{"county":"Sebastian","percent":26.89},
+					{"county":"Sevier","percent":14.82},
+					{"county":"Sharp","percent":19.15},
+					{"county":"Stone","percent":20.18},
+					{"county":"Union","percent":26.80},
+					{"county":"Van Buren","percent":22.63},
+					{"county":"Washington","percent":34.05},
+					{"county":"White","percent":24.34},
+					{"county":"Woodruff","percent":12.70},
+					{"county":"Yell","percent":14.18}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"california": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"1,899,532","percent":"9.58%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"1,749,651","percent":"8.82%"},
+					{"label":"High school graduate (including equivalency)","total":"3,998,052","percent":"20.16%"},
+					{"label":"Some college, no degree","total":"4,491,007","percent":"22.65%"},
+					{"label":"Associate degree","total":"1,567,500","percent":"7.91%"},
+					{"label":"Bachelor's degree","total":"3,965,501","percent":"20.00%"},
+					{"label":"Graduate or professional degree","total":"2,156,462","percent":"10.88%"},
+					{"label":"TOTAL","total":"19,827,705","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"50.59%"},
+					{"ethnicity":"Black","percent":"32.20%"},
+					{"ethnicity":"Hispanic","percent":"16.14%"},
+					{"ethnicity":"Asian","percent":"59.18%"},
+					{"ethnicity":"Native American","percent":"26.51%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 35.7},
+						{"year": 2010, "percent": 38.8},
+						{"year": 2011, "percent": 39.1},
+						{"year": 2012, "percent": 39.4},
+						{"year": 2013, "percent": 39.7},
+						{"year": 2014, "percent": 40.0},
+						{"year": 2015, "percent": 40.3},
+						{"year": 2016, "percent": 40.6},
+						{"year": 2017, "percent": 41.0},
+						{"year": 2018, "percent": 41.3},
+						{"year": 2019, "percent": 41.6},
+						{"year": 2020, "percent": 41.9},
+						{"year": 2021, "percent": 42.2},
+						{"year": 2022, "percent": 42.5},
+						{"year": 2023, "percent": 42.8},
+						{"year": 2024, "percent": 43.1},
+						{"year": 2025, "percent": 43.4}
+					],
+					"targets": [
+						{"year": 2010, "percent": 38.8},
+						{"year": 2011, "percent": 40.2},
+						{"year": 2012, "percent": 41.6},
+						{"year": 2013, "percent": 43.0},
+						{"year": 2014, "percent": 44.4},
+						{"year": 2015, "percent": 45.9},
+						{"year": 2016, "percent": 47.3},
+						{"year": 2017, "percent": 48.7},
+						{"year": 2018, "percent": 50.1},
+						{"year": 2019, "percent": 51.5},
+						{"year": 2020, "percent": 52.9},
+						{"year": 2021, "percent": 54.3},
+						{"year": 2022, "percent": 55.8},
+						{"year": 2023, "percent": 57.2},
+						{"year": 2024, "percent": 58.6},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Alameda","percent":49.78},
+					{"county":"Alpine","percent":37.70},
+					{"county":"Amador","percent":28.50},
+					{"county":"Butte","percent":35.46},
+					{"county":"Calaveras","percent":30.99},
+					{"county":"Colusa","percent":20.51},
+					{"county":"Contra Costa","percent":48.01},
+					{"county":"Del Norte","percent":23.42},
+					{"county":"El Dorado","percent":42.68},
+					{"county":"Fresno","percent":28.55},
+					{"county":"Glenn","percent":23.83},
+					{"county":"Humboldt","percent":37.22},
+					{"county":"Imperial","percent":20.38},
+					{"county":"Inyo","percent":30.44},
+					{"county":"Kern","percent":21.68},
+					{"county":"Kings","percent":19.84},
+					{"county":"Lake","percent":25.99},
+					{"county":"Lassen","percent":23.68},
+					{"county":"Los Angeles","percent":37.17},
+					{"county":"Madera","percent":20.12},
+					{"county":"Marin","percent":62.08},
+					{"county":"Mariposa","percent":30.04},
+					{"county":"Mendocino","percent":33.07},
+					{"county":"Merced","percent":19.91},
+					{"county":"Modoc","percent":26.62},
+					{"county":"Mono","percent":40.86},
+					{"county":"Monterey","percent":29.67},
+					{"county":"Napa","percent":39.52},
+					{"county":"Nevada","percent":43.44},
+					{"county":"Orange","percent":45.26},
+					{"county":"Placer","percent":47.88},
+					{"county":"Plumas","percent":28.83},
+					{"county":"Riverside","percent":28.31},
+					{"county":"Sacramento","percent":38.40},
+					{"county":"San Benito","percent":27.31},
+					{"county":"San Bernardino","percent":27.37},
+					{"county":"San Diego","percent":43.92},
+					{"county":"San Francisco","percent":61.54},
+					{"county":"San Joaquin","percent":26.73},
+					{"county":"San Luis Obispo","percent":41.36},
+					{"county":"San Mateo","percent":54.61},
+					{"county":"Santa Barbara","percent":39.82},
+					{"county":"Santa Clara","percent":55.06},
+					{"county":"Santa Cruz","percent":46.56},
+					{"county":"Shasta","percent":31.89},
+					{"county":"Sierra","percent":34.30},
+					{"county":"Siskiyou","percent":34.29},
+					{"county":"Solano","percent":35.66},
+					{"county":"Sonoma","percent":40.06},
+					{"county":"Stanislaus","percent":23.97},
+					{"county":"Sutter","percent":30.14},
+					{"county":"Tehama","percent":21.19},
+					{"county":"Trinity","percent":29.83},
+					{"county":"Tulare","percent":20.97},
+					{"county":"Tuolumne","percent":26.67},
+					{"county":"Ventura","percent":40.42},
+					{"county":"Yolo","percent":47.17},
+					{"county":"Yuba","percent":22.66}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"colorado": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"105,734","percent":"3.81%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"158,672","percent":"5.72%"},
+					{"label":"High school graduate (including equivalency)","total":"594,813","percent":"21.42%"},
+					{"label":"Some college, no degree","total":"640,570","percent":"23.07%"},
+					{"label":"Associate degree","total":"231,777","percent":"8.35%"},
+					{"label":"Bachelor's degree","total":"686,902","percent":"24.74%"},
+					{"label":"Graduate or professional degree","total":"357,939","percent":"12.89%"},
+					{"label":"TOTAL","total":"2,776,407","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"53.03%"},
+					{"ethnicity":"Black","percent":"32.15%"},
+					{"ethnicity":"Hispanic","percent":"18.13%"},
+					{"ethnicity":"Asian","percent":"53.07%"},
+					{"ethnicity":"Native American","percent":"28.25%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 42.4},
+						{"year": 2010, "percent": 46.0},
+						{"year": 2011, "percent": 46.3},
+						{"year": 2012, "percent": 46.7},
+						{"year": 2013, "percent": 47.0},
+						{"year": 2014, "percent": 47.4},
+						{"year": 2015, "percent": 47.8},
+						{"year": 2016, "percent": 48.1},
+						{"year": 2017, "percent": 48.5},
+						{"year": 2018, "percent": 48.8},
+						{"year": 2019, "percent": 49.2},
+						{"year": 2020, "percent": 49.5},
+						{"year": 2021, "percent": 49.9},
+						{"year": 2022, "percent": 50.2},
+						{"year": 2023, "percent": 50.6},
+						{"year": 2024, "percent": 50.9},
+						{"year": 2025, "percent": 51.3}
+					],
+					"targets": [
+						{"year": 2010, "percent": 46.0},
+						{"year": 2011, "percent": 46.9},
+						{"year": 2012, "percent": 47.9},
+						{"year": 2013, "percent": 48.8},
+						{"year": 2014, "percent": 49.7},
+						{"year": 2015, "percent": 50.7},
+						{"year": 2016, "percent": 51.6},
+						{"year": 2017, "percent": 52.5},
+						{"year": 2018, "percent": 53.5},
+						{"year": 2019, "percent": 54.4},
+						{"year": 2020, "percent": 55.3},
+						{"year": 2021, "percent": 56.3},
+						{"year": 2022, "percent": 57.2},
+						{"year": 2023, "percent": 58.1},
+						{"year": 2024, "percent": 59.1},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Adams","percent":29.81},
+					{"county":"Alamosa","percent":34.92},
+					{"county":"Arapahoe","percent":47.25},
+					{"county":"Archuleta","percent":45.13},
+					{"county":"Baca","percent":35.58},
+					{"county":"Bent","percent":23.31},
+					{"county":"Boulder","percent":64.48},
+					{"county":"Broomfield","percent":56.71},
+					{"county":"Chaffee","percent":40.12},
+					{"county":"Cheyenne","percent":37.92},
+					{"county":"Clear Creek","percent":48.16},
+					{"county":"Conejos","percent":28.68},
+					{"county":"Costilla","percent":17.65},
+					{"county":"Crowley","percent":18.93},
+					{"county":"Custer","percent":40.78},
+					{"county":"Delta","percent":27.03},
+					{"county":"Denver","percent":47.72},
+					{"county":"Dolores","percent":19.65},
+					{"county":"Douglas","percent":64.34},
+					{"county":"Eagle","percent":50.06},
+					{"county":"Elbert","percent":41.57},
+					{"county":"El Paso","percent":46.47},
+					{"county":"Fremont","percent":20.98},
+					{"county":"Garfield","percent":32.33},
+					{"county":"Gilpin","percent":43.47},
+					{"county":"Grand","percent":40.74},
+					{"county":"Gunnison","percent":54.73},
+					{"county":"Hinsdale","percent":37.94},
+					{"county":"Huerfano","percent":35.54},
+					{"county":"Jackson","percent":34.65},
+					{"county":"Jefferson","percent":49.40},
+					{"county":"Kiowa","percent":35.96},
+					{"county":"Kit Carson","percent":27.06},
+					{"county":"Lake","percent":37.01},
+					{"county":"La Plata","percent":48.17},
+					{"county":"Larimer","percent":53.50},
+					{"county":"Las Animas","percent":34.93},
+					{"county":"Lincoln","percent":24.51},
+					{"county":"Logan","percent":31.72},
+					{"county":"Mesa","percent":35.79},
+					{"county":"Mineral","percent":50.97},
+					{"county":"Moffat","percent":25.34},
+					{"county":"Montezuma","percent":35.23},
+					{"county":"Montrose","percent":31.29},
+					{"county":"Morgan","percent":25.74},
+					{"county":"Otero","percent":30.01},
+					{"county":"Ouray","percent":45.15},
+					{"county":"Park","percent":38.17},
+					{"county":"Phillips","percent":28.11},
+					{"county":"Pitkin","percent":64.70},
+					{"county":"Prowers","percent":32.00},
+					{"county":"Pueblo","percent":33.14},
+					{"county":"Rio Blanco","percent":32.06},
+					{"county":"Rio Grande","percent":22.62},
+					{"county":"Routt","percent":51.13},
+					{"county":"Saguache","percent":25.78},
+					{"county":"San Juan","percent":29.82},
+					{"county":"San Miguel","percent":52.92},
+					{"county":"Sedgwick","percent":30.24},
+					{"county":"Summit","percent":55.46},
+					{"county":"Teller","percent":38.76},
+					{"county":"Washington","percent":32.13},
+					{"county":"Weld","percent":36.19},
+					{"county":"Yuma","percent":28.89}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"connecticut": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"62,509","percent":"3.25%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"112,901","percent":"5.86%"},
+					{"label":"High school graduate (including equivalency)","total":"507,963","percent":"26.37%"},
+					{"label":"Some college, no degree","total":"359,891","percent":"18.68%"},
+					{"label":"Associate degree","total":"148,063","percent":"7.69%"},
+					{"label":"Bachelor's degree","total":"424,953","percent":"22.06%"},
+					{"label":"Graduate or professional degree","total":"309,950","percent":"16.09%"},
+					{"label":"TOTAL","total":"1,926,230","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"51.92%"},
+					{"ethnicity":"Black","percent":"26.63%"},
+					{"ethnicity":"Hispanic","percent":"19.93%"},
+					{"ethnicity":"Asian","percent":"68.66%"},
+					{"ethnicity":"Native American","percent":"28.52%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 42.2},
+						{"year": 2010, "percent": 45.8},
+						{"year": 2011, "percent": 46.2},
+						{"year": 2012, "percent": 46.6},
+						{"year": 2013, "percent": 46.9},
+						{"year": 2014, "percent": 47.3},
+						{"year": 2015, "percent": 47.7},
+						{"year": 2016, "percent": 48.0},
+						{"year": 2017, "percent": 48.4},
+						{"year": 2018, "percent": 48.8},
+						{"year": 2019, "percent": 49.1},
+						{"year": 2020, "percent": 49.5},
+						{"year": 2021, "percent": 49.9},
+						{"year": 2022, "percent": 50.2},
+						{"year": 2023, "percent": 50.6},
+						{"year": 2024, "percent": 51.0},
+						{"year": 2025, "percent": 51.3}
+					],
+					"targets": [
+						{"year": 2010, "percent": 45.8},
+						{"year": 2011, "percent": 46.8},
+						{"year": 2012, "percent": 47.7},
+						{"year": 2013, "percent": 48.7},
+						{"year": 2014, "percent": 49.6},
+						{"year": 2015, "percent": 50.6},
+						{"year": 2016, "percent": 51.5},
+						{"year": 2017, "percent": 52.4},
+						{"year": 2018, "percent": 53.4},
+						{"year": 2019, "percent": 54.3},
+						{"year": 2020, "percent": 55.3},
+						{"year": 2021, "percent": 56.2},
+						{"year": 2022, "percent": 57.2},
+						{"year": 2023, "percent": 58.1},
+						{"year": 2024, "percent": 59.1},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Fairfield","percent":53.38},
+					{"county":"Hartford","percent":44.56},
+					{"county":"Litchfield","percent":43.66},
+					{"county":"Middlesex","percent":49.41},
+					{"county":"New Haven","percent":42.54},
+					{"county":"New London","percent":41.00},
+					{"county":"Tolland","percent":49.66},
+					{"county":"Windham","percent":30.56}
 				],
 				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 			}
 		},
 
-
-
-		
 	}
 }
