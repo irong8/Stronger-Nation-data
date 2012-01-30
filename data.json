@@ -688,90 +688,469 @@
 	"states": {
 		"alabama": {
 			"pie": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"label": "Less than ninth grade","total":"113,930","percent":"4.55"},
+					{"label": "Ninth to 12th grade, no diploma","total":"268,620","percent":"10.73"},
+					{"label": "High school graduate (including equivalency)","total":"755,740","percent":"30.19"},
+					{"label": "Some college, no degree","total":"577,615","percent":"23.07"},
+					{"label": "Associate degree","total":"205,005","percent":"8.19"},
+					{"label": "Bachelor's degree","total":"380,136","percent":"15.18"},
+					{"label": "Graduate or professional degree","total":"202,501","percent":"8.09"},
+					{"label": "TOTAL","total":"2,503,547","percent":"100"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 			},
 
 			"bar-trend": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"year": 2008,"percent": },
+					{"year": 2009,"percent": },
+					{"year": 2010,"percent": }
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
 			},
 
 			"bar-rates": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"ethnicity":"White","percent":"35.00%"},
+					{"ethnicity":"Black","percent":"23.08%"},
+					{"ethnicity":"Hispanic","percent":"14.54%"},
+					{"ethnicity":"Asian","percent":"57.38%"},
+					{"ethnicity":"Native American","percent":"24.36%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
 			},
 
 			"line": {
 				"data": {
-					"expected": [],
-					"targets": []
+					"expected": [
+						{"year": 2000, "percent": 27.1},
+						{"year": 2010, "percent": 31.5},
+						{"year": 2011, "percent": 31.9},
+						{"year": 2012, "percent": 32.3},
+						{"year": 2013, "percent": 32.8},
+						{"year": 2014, "percent": 33.2},
+						{"year": 2015, "percent": 33.6},
+						{"year": 2016, "percent": 34.1},
+						{"year": 2017, "percent": 34.5},
+						{"year": 2018, "percent": 34.9},
+						{"year": 2019, "percent": 35.3},
+						{"year": 2020, "percent": 35.8},
+						{"year": 2021, "percent": 36.2},
+						{"year": 2022, "percent": 36.6},
+						{"year": 2023, "percent": 37.1},
+						{"year": 2024, "percent": 37.5},
+						{"year": 2025, "percent": 37.9}
+					],
+					"targets": [
+						{"year": 2010, "percent": 31.5},
+						{"year": 2011, "percent": 33.4},
+						{"year": 2012, "percent": 35.3},
+						{"year": 2013, "percent": 37.2},
+						{"year": 2014, "percent": 39.1},
+						{"year": 2015, "percent": 41.0},
+						{"year": 2016, "percent": 42.9},
+						{"year": 2017, "percent": 44.8},
+						{"year": 2018, "percent": 46.7},
+						{"year": 2019, "percent": 48.6},
+						{"year": 2020, "percent": 50.5},
+						{"year": 2021, "percent": 52.4},
+						{"year": 2022, "percent": 54.3},
+						{"year": 2023, "percent": 56.2},
+						{"year": 2024, "percent": 58.1},
+						{"year": 2025, "percent": 60.0}
+					]
 				},
-				"source": ""
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey"
 			},
 
 			"counties": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"county":"Autauga","percent":31.06},
+					{"county":"Baldwin","percent":36.61},
+					{"county":"Barbour","percent":21.63},
+					{"county":"Bibb","percent":16.06},
+					{"county":"Blount","percent":20.91},
+					{"county":"Bullock","percent":19.14},
+					{"county":"Butler","percent":21.64},
+					{"county":"Calhoun","percent":24.65},
+					{"county":"Chambers","percent":20.39},
+					{"county":"Cherokee","percent":17.53},
+					{"county":"Chilton","percent":19.22},
+					{"county":"Choctaw","percent":19.96},
+					{"county":"Clarke","percent":21.18},
+					{"county":"Clay","percent":19.13},
+					{"county":"Cleburne","percent":14.79},
+					{"county":"Coffee","percent":33.08},
+					{"county":"Colbert","percent":25.86},
+					{"county":"Conecuh","percent":23.14},
+					{"county":"Coosa","percent":13.98},
+					{"county":"Covington","percent":23.47},
+					{"county":"Crenshaw","percent":17.53},
+					{"county":"Cullman","percent":25.82},
+					{"county":"Dale","percent":29.71},
+					{"county":"Dallas","percent":23.50},
+					{"county":"DeKalb","percent":18.88},
+					{"county":"Elmore","percent":27.87},
+					{"county":"Escambia","percent":22.00},
+					{"county":"Etowah","percent":27.02},
+					{"county":"Fayette","percent":19.59},
+					{"county":"Franklin","percent":21.04},
+					{"county":"Geneva","percent":17.19},
+					{"county":"Greene","percent":15.90},
+					{"county":"Hale","percent":17.05},
+					{"county":"Henry","percent":23.70},
+					{"county":"Houston","percent":29.86},
+					{"county":"Jackson","percent":19.84},
+					{"county":"Jefferson","percent":39.19},
+					{"county":"Lamar","percent":16.13},
+					{"county":"Lauderdale","percent":30.58},
+					{"county":"Lawrence","percent":20.55},
+					{"county":"Lee","percent":39.90},
+					{"county":"Limestone","percent":30.07},
+					{"county":"Lowndes","percent":18.30},
+					{"county":"Macon","percent":28.90},
+					{"county":"Madison","percent":46.74},
+					{"county":"Marengo","percent":26.33},
+					{"county":"Marion","percent":19.33},
+					{"county":"Marshall","percent":23.92},
+					{"county":"Mobile","percent":29.27},
+					{"county":"Monroe","percent":20.03},
+					{"county":"Montgomery","percent":38.27},
+					{"county":"Morgan","percent":28.07},
+					{"county":"Perry","percent":19.92},
+					{"county":"Pickens","percent":19.83},
+					{"county":"Pike","percent":28.87},
+					{"county":"Randolph","percent":19.10},
+					{"county":"Russell","percent":20.77},
+					{"county":"St. Clair","percent":23.40},
+					{"county":"Shelby","percent":50.03},
+					{"county":"Sumter","percent":21.42},
+					{"county":"Talladega","percent":20.03},
+					{"county":"Tallapoosa","percent":24.21},
+					{"county":"Tuscaloosa","percent":34.78},
+					{"county":"Walker","percent":19.17},
+					{"county":"Washington","percent":14.60},
+					{"county":"Wilcox","percent":20.08},
+					{"county":"Winston","percent":18.60}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 			}
 		},
 		"alaska": {
 			"pie": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"label":"Less than ninth grade","total":"7,577","percent":"1.91%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"23,689","percent":"5.96%"},
+					{"label":"High school graduate (including equivalency)","total":"99,114","percent":"24.95%"},
+					{"label":"Some college, no degree","total":"118,771","percent":"29.90%"},
+					{"label":"Associate degree","total":"35,273","percent":"8.88%"},
+					{"label":"Bachelor's degree","total":"76,459","percent":"19.25%"},
+					{"label":"Graduate or professional degree","total":"36,355","percent":"9.15%"},
+					{"label":"TOTAL","total":"397,238","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 			},
 
 			"bar-trend": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"year": 2008,"percent": },
+					{"year": 2009,"percent": },
+					{"year": 2010,"percent": }
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
 			},
 
 			"bar-rates": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"ethnicity":"White","percent":"43.01%"},
+					{"ethnicity":"Black","percent":"36.11%"},
+					{"ethnicity":"Hispanic","percent":"26.33%"},
+					{"ethnicity":"Asian","percent":"29.40%"},
+					{"ethnicity":"Native American","percent":"12.18%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
 			},
 
 			"line": {
 				"data": {
-					"expected": [],
-					"targets": []
+					"expected": [
+						{"year": 2000, "percent": 33.1},
+						{"year": 2010, "percent": 37.3},
+						{"year": 2011, "percent": 37.7},
+						{"year": 2012, "percent": 38.1},
+						{"year": 2013, "percent": 38.5},
+						{"year": 2014, "percent": 38.9},
+						{"year": 2015, "percent": 39.4},
+						{"year": 2016, "percent": 39.8},
+						{"year": 2017, "percent": 40.2},
+						{"year": 2018, "percent": 40.6},
+						{"year": 2019, "percent": 41.0},
+						{"year": 2020, "percent": 41.4},
+						{"year": 2021, "percent": 41.9},
+						{"year": 2022, "percent": 42.3},
+						{"year": 2023, "percent": 42.7},
+						{"year": 2024, "percent": 43.1},
+						{"year": 2025, "percent": 43.5}
+					],
+					"targets": 
+ 						{"year": 2010, "percent": 37.3},
+						{"year": 2011, "percent": 38.8},
+						{"year": 2012, "percent": 40.3},
+						{"year": 2013, "percent": 41.8},
+						{"year": 2014, "percent": 43.3},
+						{"year": 2015, "percent": 44.9},
+						{"year": 2016, "percent": 46.4},
+						{"year": 2017, "percent": 47.9},
+						{"year": 2018, "percent": 49.4},
+						{"year": 2019, "percent": 50.9},
+						{"year": 2020, "percent": 52.4},
+						{"year": 2021, "percent": 53.9},
+						{"year": 2022, "percent": 55.5},
+						{"year": 2023, "percent": 57.0},
+						{"year": 2024, "percent": 58.5},
+						{"year": 2025, "percent": 60.0}
+					]
 				},
-				"source": ""
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
 			},
 
 			"counties": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"county":"Aleutians East Borough, Alaska","percent":17.23},
+					{"county":"Aleutians West Census Area, Alaska","percent":14.92},
+					{"county":"Anchorage Municipality, Alaska","percent":42.56},
+					{"county":"Bethel Census Area, Alaska","percent":18.78},
+					{"county":"Bristol Bay Borough, Alaska","percent":29.67},
+					{"county":"Denali Borough, Alaska","percent":36.49},
+					{"county":"Dillingham Census Area, Alaska","percent":26.19},
+					{"county":"Fairbanks North Star Borough, Alaska","percent":37.77},
+					{"county":"Haines Borough, Alaska","percent":38.42},
+					{"county":"Hoonah-Angoon Census Area, Alaska","percent":35.74},
+					{"county":"Juneau City and Borough, Alaska","percent":41.33},
+					{"county":"Kenai Peninsula Borough, Alaska","percent":30.53},
+					{"county":"Ketchikan Gateway Borough, Alaska","percent":34.10},
+					{"county":"Kodiak Island Borough, Alaska","percent":31.52},
+					{"county":"Lake and Peninsula Borough, Alaska","percent":19.94},
+					{"county":"Matanuska-Susitna Borough, Alaska","percent":31.37},
+					{"county":"Nome Census Area, Alaska","percent":18.85},
+					{"county":"North Slope Borough, Alaska","percent":16.49},
+					{"county":"Northwest Arctic Borough, Alaska","percent":17.21},
+					{"county":"Petersburg Census Area, Alaska","percent":38.63},
+					{"county":"Prince of Wales-Hyder Census Area, Alaska","percent":23.01},
+					{"county":"Sitka City and Borough, Alaska","percent":38.31},
+					{"county":"Skagway Municipality, Alaska","percent":38.11},
+					{"county":"Southeast Fairbanks Census Area, Alaska","percent":25.83},
+					{"county":"Valdez-Cordova Census Area, Alaska","percent":34.38},
+					{"county":"Wade Hampton Census Area, Alaska","percent":10.58},
+					{"county":"Wrangell City and Borough, Alaska","percent":28.79},
+					{"county":"Yakutat City and Borough, Alaska","percent":32.52},
+					{"county":"Yukon-Koyukuk Census Area, Alaska","percent":17.27}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 			}
 		},
 		"arizona": {
 			"pie": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"label":"Less than ninth grade","total":"184,819","percent":"5.67%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"266,365","percent":"8.17%"},
+					{"label":"High school graduate (including equivalency)","total":"780,448","percent":"23.94%"},
+					{"label":"Some college, no degree","total":"883,777","percent":"27.11%"},
+					{"label":"Associate degree","total":"287,734","percent":"8.83%"},
+					{"label":"Bachelor's degree","total":"564,835","percent":"17.33%"},
+					{"label":"Graduate or professional degree","total":"291,985","percent":"8.96%"},
+					{"label":"TOTAL","total":"3,259,963","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 			},
 
 			"bar-trend": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"year": 2008,"percent": },
+					{"year": 2009,"percent": },
+					{"year": 2010,"percent": }
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
 			},
 
 			"bar-rates": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"ethnicity":"White","precent":"43.28%"},
+					{"ethnicity":"Black","precent":"34.49%"},
+					{"ethnicity":"Hispanic","precent":"16.98%"},
+					{"ethnicity":"Asian","precent":"59.55%"},
+					{"ethnicity":"Native American","precent":"15.43%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
 			},
 
 			"line": {
 				"data": {
-					"expected": [],
-					"targets": []
+					"expected": [
+						{"year": 2000, "percent": 32.3},
+						{"year": 2010, "percent": 35.1},
+						{"year": 2011, "percent": 35.4},
+						{"year": 2012, "percent": 35.7},
+						{"year": 2013, "percent": 36.0},
+						{"year": 2014, "percent": 36.2},
+						{"year": 2015, "percent": 36.5},
+						{"year": 2016, "percent": 36.8},
+						{"year": 2017, "percent": 37.1},
+						{"year": 2018, "percent": 37.4},
+						{"year": 2019, "percent": 37.7},
+						{"year": 2020, "percent": 37.9},
+						{"year": 2021, "percent": 38.2},
+						{"year": 2022, "percent": 38.5},
+						{"year": 2023, "percent": 38.8},
+						{"year": 2024, "percent": 39.1},
+						{"year": 2025, "percent": 39.4}
+					],
+					"targets": [
+						{"year": 2010, "percent": 35.1},
+						{"year": 2011, "percent": 36.8},
+						{"year": 2012, "percent": 38.4},
+						{"year": 2013, "percent": 40.1},
+						{"year": 2014, "percent": 41.7},
+						{"year": 2015, "percent": 43.4},
+						{"year": 2016, "percent": 45.1},
+						{"year": 2017, "percent": 46.7},
+						{"year": 2018, "percent": 48.4},
+						{"year": 2019, "percent": 50.0},
+						{"year": 2020, "percent": 51.7},
+						{"year": 2021, "percent": 53.4},
+						{"year": 2022, "percent": 55.0},
+						{"year": 2023, "percent": 56.7},
+						{"year": 2024, "percent": 58.3},
+						{"year": 2025, "percent": 60.0}
+					]
 				},
-				"source": ""
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
 			},
 
 			"counties": {
-				"data": [],
-				"source": ""
+				"data": [
+					{"county":"Apache","percent":19.46},
+					{"county":"Cochise","percent":33.97},
+					{"county":"Coconino","percent":39.57},
+					{"county":"Gila","percent":24.33},
+					{"county":"Graham","percent":21.22},
+					{"county":"Greenlee","percent":23.65},
+					{"county":"La Paz","percent":14.32},
+					{"county":"Maricopa","percent":38.54},
+					{"county":"Mohave","percent":20.36},
+					{"county":"Navajo","percent":24.38},
+					{"county":"Pima","percent":38.58},
+					{"county":"Pinal","percent":27.56},
+					{"county":"Santa Cruz","percent":20.92},
+					{"county":"Yavapai","percent":32.31},
+					{"county":"Yuma","percent":21.67}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 			}
-		}
+		},
+		"arkansas": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"184,819","percent":"5.67%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"266,365","percent":"8.17%"},
+					{"label":"High school graduate (including equivalency)","total":"780,448","percent":"23.94%"},
+					{"label":"Some college, no degree","total":"883,777","percent":"27.11%"},
+					{"label":"Associate degree","total":"287,734","percent":"8.83%"},
+					{"label":"Bachelor's degree","total":"564,835","percent":"17.33%"},
+					{"label":"Graduate or professional degree","total":"291,985","percent":"8.96%"},
+					{"label":"TOTAL","total":"3,259,963","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008,"percent": },
+					{"year": 2009,"percent": },
+					{"year": 2010,"percent": }
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","precent":"43.28%"},
+					{"ethnicity":"Black","precent":"34.49%"},
+					{"ethnicity":"Hispanic","precent":"16.98%"},
+					{"ethnicity":"Asian","precent":"59.55%"},
+					{"ethnicity":"Native American","precent":"15.43%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 32.3},
+						{"year": 2010, "percent": 35.1},
+						{"year": 2011, "percent": 35.4},
+						{"year": 2012, "percent": 35.7},
+						{"year": 2013, "percent": 36.0},
+						{"year": 2014, "percent": 36.2},
+						{"year": 2015, "percent": 36.5},
+						{"year": 2016, "percent": 36.8},
+						{"year": 2017, "percent": 37.1},
+						{"year": 2018, "percent": 37.4},
+						{"year": 2019, "percent": 37.7},
+						{"year": 2020, "percent": 37.9},
+						{"year": 2021, "percent": 38.2},
+						{"year": 2022, "percent": 38.5},
+						{"year": 2023, "percent": 38.8},
+						{"year": 2024, "percent": 39.1},
+						{"year": 2025, "percent": 39.4}
+					],
+					"targets": [
+						{"year": 2010, "percent": 35.1},
+						{"year": 2011, "percent": 36.8},
+						{"year": 2012, "percent": 38.4},
+						{"year": 2013, "percent": 40.1},
+						{"year": 2014, "percent": 41.7},
+						{"year": 2015, "percent": 43.4},
+						{"year": 2016, "percent": 45.1},
+						{"year": 2017, "percent": 46.7},
+						{"year": 2018, "percent": 48.4},
+						{"year": 2019, "percent": 50.0},
+						{"year": 2020, "percent": 51.7},
+						{"year": 2021, "percent": 53.4},
+						{"year": 2022, "percent": 55.0},
+						{"year": 2023, "percent": 56.7},
+						{"year": 2024, "percent": 58.3},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Apache","percent":19.46},
+					{"county":"Cochise","percent":33.97},
+					{"county":"Coconino","percent":39.57},
+					{"county":"Gila","percent":24.33},
+					{"county":"Graham","percent":21.22},
+					{"county":"Greenlee","percent":23.65},
+					{"county":"La Paz","percent":14.32},
+					{"county":"Maricopa","percent":38.54},
+					{"county":"Mohave","percent":20.36},
+					{"county":"Navajo","percent":24.38},
+					{"county":"Pima","percent":38.58},
+					{"county":"Pinal","percent":27.56},
+					{"county":"Santa Cruz","percent":20.92},
+					{"county":"Yavapai","percent":32.31},
+					{"county":"Yuma","percent":21.67}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+
+
+
+		
 	}
 }
