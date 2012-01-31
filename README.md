@@ -10,6 +10,6 @@ For those not familiar with this project, basically what you have here is a bunc
 
 ## Parting words
 
-This is not our data. It is compiled by the [U.S. Census Bureau](http://www.census.gov/). All we have done is pull it together for the purpose of our project. Feel free to sift through it, take what you want, or clone till your hearts content. Just make sure to acknowledge the U.S. Census Bureau.
+This is not our data. It is compiled by the [U.S. Census Bureau](http://www.census.gov/), and was assembled/organized for [Lumina Foundation](http://luminafoundation.org) by [NCHEMS](http://www.nchems.org/). All we have done is pull it together for the purpose of our project. Feel free to sift through it, take what you want, or clone till your hearts content. Just make sure to acknowledge the U.S. Census Bureau.
 
 If you have any questions, feel free to get a hold of [Pete](mailto:pete@irong8.com) or [Dustin](mailto:dustin@irong8.com).
