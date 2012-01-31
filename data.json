@@ -5585,6 +5585,459 @@
 				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 			}
 		},
+		"ohio": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"130,077","percent":"2.13%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"438,532","percent":"7.19%"},
+					{"label":"High school graduate (including equivalency)","total":"2,023,731","percent":"33.20%"},
+					{"label":"Some college, no degree","total":"1,321,348","percent":"21.68%"},
+					{"label":"Associate degree","total":"553,785","percent":"9.09%"},
+					{"label":"Bachelor's degree","total":"1,050,246","percent":"17.23%"},
+					{"label":"Graduate or professional degree","total":"577,352","percent":"9.47%"},
+					{"label":"TOTAL","total":"6,095,071","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"36.40%"},
+					{"ethnicity":"Black","percent":"24.13%"},
+					{"ethnicity":"Hispanic","percent":"22.58%"},
+					{"ethnicity":"Asian","percent":"69.28%"},
+					{"ethnicity":"Native American","percent":"29.58%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 30.3},
+						{"year": 2010, "percent": 35.8},
+						{"year": 2011, "percent": 36.3},
+						{"year": 2012, "percent": 36.9},
+						{"year": 2013, "percent": 37.4},
+						{"year": 2014, "percent": 38.0},
+						{"year": 2015, "percent": 38.5},
+						{"year": 2016, "percent": 39.1},
+						{"year": 2017, "percent": 39.6},
+						{"year": 2018, "percent": 40.2},
+						{"year": 2019, "percent": 40.7},
+						{"year": 2020, "percent": 41.3},
+						{"year": 2021, "percent": 41.8},
+						{"year": 2022, "percent": 42.3},
+						{"year": 2023, "percent": 42.9},
+						{"year": 2024, "percent": 43.4},
+						{"year": 2025, "percent": 44.0}
+					],
+					"targets": [
+						{"year": 2010, "percent": 35.8},
+						{"year": 2011, "percent": 37.4},
+						{"year": 2012, "percent": 39.0},
+						{"year": 2013, "percent": 40.6},
+						{"year": 2014, "percent": 42.2},
+						{"year": 2015, "percent": 43.9},
+						{"year": 2016, "percent": 45.5},
+						{"year": 2017, "percent": 47.1},
+						{"year": 2018, "percent": 48.7},
+						{"year": 2019, "percent": 50.3},
+						{"year": 2020, "percent": 51.9},
+						{"year": 2021, "percent": 53.5},
+						{"year": 2022, "percent": 55.2},
+						{"year": 2023, "percent": 56.8},
+						{"year": 2024, "percent": 58.4},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Adams","percent":17.91},
+					{"county":"Allen","percent":27.80},
+					{"county":"Ashland","percent":27.71},
+					{"county":"Ashtabula","percent":21.36},
+					{"county":"Athens","percent":38.34},
+					{"county":"Auglaize","percent":27.95},
+					{"county":"Belmont","percent":27.33},
+					{"county":"Brown","percent":18.96},
+					{"county":"Butler","percent":35.75},
+					{"county":"Carroll","percent":20.32},
+					{"county":"Champaign","percent":22.92},
+					{"county":"Clark","percent":27.39},
+					{"county":"Clermont","percent":35.11},
+					{"county":"Clinton","percent":23.93},
+					{"county":"Columbiana","percent":24.13},
+					{"county":"Coshocton","percent":20.83},
+					{"county":"Crawford","percent":21.89},
+					{"county":"Cuyahoga","percent":38.97},
+					{"county":"Darke","percent":22.13},
+					{"county":"Defiance","percent":26.89},
+					{"county":"Delaware","percent":60.74},
+					{"county":"Erie","percent":31.68},
+					{"county":"Fairfield","percent":36.27},
+					{"county":"Fayette","percent":20.60},
+					{"county":"Franklin","percent":44.22},
+					{"county":"Fulton","percent":25.98},
+					{"county":"Gallia","percent":25.06},
+					{"county":"Geauga","percent":45.63},
+					{"county":"Greene","percent":47.74},
+					{"county":"Guernsey","percent":22.13},
+					{"county":"Hamilton","percent":43.16},
+					{"county":"Hancock","percent":36.72},
+					{"county":"Hardin","percent":23.48},
+					{"county":"Harrison","percent":19.92},
+					{"county":"Henry","percent":24.11},
+					{"county":"Highland","percent":18.16},
+					{"county":"Hocking","percent":20.61},
+					{"county":"Holmes","percent":14.95},
+					{"county":"Huron","percent":21.86},
+					{"county":"Jackson","percent":21.31},
+					{"county":"Jefferson","percent":27.42},
+					{"county":"Knox","percent":26.67},
+					{"county":"Lake","percent":36.46},
+					{"county":"Lawrence","percent":22.58},
+					{"county":"Licking","percent":32.23},
+					{"county":"Logan","percent":22.36},
+					{"county":"Lorain","percent":32.25},
+					{"county":"Lucas","percent":33.96},
+					{"county":"Madison","percent":25.61},
+					{"county":"Mahoning","percent":30.46},
+					{"county":"Marion","percent":20.81},
+					{"county":"Medina","percent":41.31},
+					{"county":"Meigs","percent":23.09},
+					{"county":"Mercer","percent":28.33},
+					{"county":"Miami","percent":30.93},
+					{"county":"Monroe","percent":20.76},
+					{"county":"Montgomery","percent":35.82},
+					{"county":"Morgan","percent":18.72},
+					{"county":"Morrow","percent":22.42},
+					{"county":"Muskingum","percent":24.23},
+					{"county":"Noble","percent":17.21},
+					{"county":"Ottawa","percent":32.30},
+					{"county":"Paulding","percent":21.72},
+					{"county":"Perry","percent":17.45},
+					{"county":"Pickaway","percent":21.15},
+					{"county":"Pike","percent":20.38},
+					{"county":"Portage","percent":33.75},
+					{"county":"Preble","percent":20.68},
+					{"county":"Putnam","percent":34.75},
+					{"county":"Richland","percent":25.75},
+					{"county":"Ross","percent":21.77},
+					{"county":"Sandusky","percent":26.74},
+					{"county":"Scioto","percent":22.21},
+					{"county":"Seneca","percent":27.26},
+					{"county":"Shelby","percent":24.26},
+					{"county":"Stark","percent":30.98},
+					{"county":"Summit","percent":40.77},
+					{"county":"Trumbull","percent":25.81},
+					{"county":"Tuscarawas","percent":23.40},
+					{"county":"Union","percent":37.45},
+					{"county":"Van Wert","percent":24.94},
+					{"county":"Vinton","percent":16.65},
+					{"county":"Warren","percent":47.09},
+					{"county":"Washington","percent":26.60},
+					{"county":"Wayne","percent":27.45},
+					{"county":"Williams","percent":24.13},
+					{"county":"Wood","percent":42.81},
+					{"county":"Wyandot","percent":25.44}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"oklahoma": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"68,471","percent":"3.53%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"160,488","percent":"8.28%"},
+					{"label":"High school graduate (including equivalency)","total":"603,789","percent":"31.13%"},
+					{"label":"Some college, no degree","total":"491,323","percent":"25.33%"},
+					{"label":"Associate degree","total":"148,073","percent":"7.63%"},
+					{"label":"Bachelor's degree","total":"322,744","percent":"16.64%"},
+					{"label":"Graduate or professional degree","total":"144,536","percent":"7.45%"},
+					{"label":"TOTAL","total":"1,939,424","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"34.31%"},
+					{"ethnicity":"Black","percent":"26.14%"},
+					{"ethnicity":"Hispanic","percent":"14.57%"},
+					{"ethnicity":"Asian","percent":"50.86%"},
+					{"ethnicity":"Native American","percent":"24.50%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 28.2},
+						{"year": 2010, "percent": 31.7},
+						{"year": 2011, "percent": 32.1},
+						{"year": 2012, "percent": 32.4},
+						{"year": 2013, "percent": 32.8},
+						{"year": 2014, "percent": 33.1},
+						{"year": 2015, "percent": 33.5},
+						{"year": 2016, "percent": 33.8},
+						{"year": 2017, "percent": 34.2},
+						{"year": 2018, "percent": 34.5},
+						{"year": 2019, "percent": 34.9},
+						{"year": 2020, "percent": 35.2},
+						{"year": 2021, "percent": 35.6},
+						{"year": 2022, "percent": 35.9},
+						{"year": 2023, "percent": 36.3},
+						{"year": 2024, "percent": 36.6},
+						{"year": 2025, "percent": 37.0}
+					],
+					"targets": [
+						{"year": 2010, "percent": 31.7},
+						{"year": 2011, "percent": 33.6},
+						{"year": 2012, "percent": 35.5},
+						{"year": 2013, "percent": 37.4},
+						{"year": 2014, "percent": 39.3},
+						{"year": 2015, "percent": 41.2},
+						{"year": 2016, "percent": 43.0},
+						{"year": 2017, "percent": 44.9},
+						{"year": 2018, "percent": 46.8},
+						{"year": 2019, "percent": 48.7},
+						{"year": 2020, "percent": 50.6},
+						{"year": 2021, "percent": 52.5},
+						{"year": 2022, "percent": 54.3},
+						{"year": 2023, "percent": 56.2},
+						{"year": 2024, "percent": 58.1},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Adair","percent":15.13},
+					{"county":"Alfalfa","percent":22.94},
+					{"county":"Atoka","percent":17.97},
+					{"county":"Beaver","percent":27.02},
+					{"county":"Beckham","percent":25.38},
+					{"county":"Blaine","percent":25.73},
+					{"county":"Bryan","percent":29.80},
+					{"county":"Caddo","percent":19.89},
+					{"county":"Canadian","percent":35.01},
+					{"county":"Carter","percent":23.59},
+					{"county":"Cherokee","percent":29.35},
+					{"county":"Choctaw","percent":18.57},
+					{"county":"Cimarron","percent":29.29},
+					{"county":"Cleveland","percent":40.87},
+					{"county":"Coal","percent":15.66},
+					{"county":"Comanche","percent":27.64},
+					{"county":"Cotton","percent":29.10},
+					{"county":"Craig","percent":21.89},
+					{"county":"Creek","percent":23.35},
+					{"county":"Custer","percent":31.20},
+					{"county":"Delaware","percent":20.76},
+					{"county":"Dewey","percent":26.40},
+					{"county":"Ellis","percent":30.03},
+					{"county":"Garfield","percent":30.41},
+					{"county":"Garvin","percent":21.16},
+					{"county":"Grady","percent":25.42},
+					{"county":"Grant","percent":31.21},
+					{"county":"Greer","percent":18.26},
+					{"county":"Harmon","percent":19.46},
+					{"county":"Harper","percent":25.01},
+					{"county":"Haskell","percent":24.47},
+					{"county":"Hughes","percent":17.99},
+					{"county":"Jackson","percent":33.01},
+					{"county":"Jefferson","percent":15.81},
+					{"county":"Johnston","percent":30.49},
+					{"county":"Kay","percent":29.97},
+					{"county":"Kingfisher","percent":26.82},
+					{"county":"Kiowa","percent":22.63},
+					{"county":"Latimer","percent":28.96},
+					{"county":"Le Flore","percent":21.17},
+					{"county":"Lincoln","percent":21.32},
+					{"county":"Logan","percent":30.09},
+					{"county":"Love","percent":20.87},
+					{"county":"McClain","percent":26.65},
+					{"county":"McCurtain","percent":19.38},
+					{"county":"McIntosh","percent":18.73},
+					{"county":"Major","percent":20.93},
+					{"county":"Marshall","percent":22.00},
+					{"county":"Mayes","percent":19.89},
+					{"county":"Murray","percent":23.67},
+					{"county":"Muskogee","percent":27.20},
+					{"county":"Noble","percent":26.63},
+					{"county":"Nowata","percent":21.35},
+					{"county":"Okfuskee","percent":21.29},
+					{"county":"Oklahoma","percent":35.70},
+					{"county":"Okmulgee","percent":25.81},
+					{"county":"Osage","percent":28.75},
+					{"county":"Ottawa","percent":25.20},
+					{"county":"Pawnee","percent":24.38},
+					{"county":"Payne","percent":42.19},
+					{"county":"Pittsburg","percent":26.08},
+					{"county":"Pontotoc","percent":32.51},
+					{"county":"Pottawatomie","percent":25.22},
+					{"county":"Pushmataha","percent":20.49},
+					{"county":"Roger Mills","percent":26.63},
+					{"county":"Rogers","percent":33.33},
+					{"county":"Seminole","percent":22.21},
+					{"county":"Sequoyah","percent":21.77},
+					{"county":"Stephens","percent":22.43},
+					{"county":"Texas","percent":25.53},
+					{"county":"Tillman","percent":23.13},
+					{"county":"Tulsa","percent":38.99},
+					{"county":"Wagoner","percent":30.74},
+					{"county":"Washington","percent":34.41},
+					{"county":"Washita","percent":21.25},
+					{"county":"Woods","percent":35.68},
+					{"county":"Woodward","percent":22.84}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
+		"oregon": {
+			"pie": {
+				"data": [
+					{"label":"Less than ninth grade","total":"80,721","percent":"3.88%"},
+					{"label":"Ninth to 12th grade, no diploma","total":"138,795","percent":"6.67%"},
+					{"label":"High school graduate (including equivalency)","total":"479,137","percent":"23.04%"},
+					{"label":"Some college, no degree","total":"579,411","percent":"27.86%"},
+					{"label":"Associate degree","total":"179,108","percent":"8.61%"},
+					{"label":"Bachelor's degree","total":"406,272","percent":"19.53%"},
+					{"label":"Graduate or professional degree","total":"216,549","percent":"10.41%"},
+					{"label":"TOTAL","total":"2,079,993","percent":"100%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
+			},
+
+			"bar-trend": {
+				"data": [
+					{"year": 2008, "percent": 0},
+					{"year": 2009,"percent": 0},
+					{"year": 2010,"percent": 0}
+				],
+				"source": "Source: U.S. Census Bureau, more description to come later for this"
+			},
+
+			"bar-rates": {
+				"data": [
+					{"ethnicity":"White","percent":"41.48%"},
+					{"ethnicity":"Black","percent":"35.90%"},
+					{"ethnicity":"Hispanic","percent":"15.61%"},
+					{"ethnicity":"Asian","percent":"53.46%"},
+					{"ethnicity":"Native American","percent":"20.78%"}
+				],
+				"source": "Source: U.S. Census Bureau, 2008-10 American Community Survey PUMS File"
+			},
+
+			"line": {
+				"data": {
+					"expected": [
+						{"year": 2000, "percent": 34.5},
+						{"year": 2010, "percent": 38.6},
+						{"year": 2011, "percent": 39.0},
+						{"year": 2012, "percent": 39.4},
+						{"year": 2013, "percent": 39.8},
+						{"year": 2014, "percent": 40.2},
+						{"year": 2015, "percent": 40.6},
+						{"year": 2016, "percent": 41.0},
+						{"year": 2017, "percent": 41.4},
+						{"year": 2018, "percent": 41.8},
+						{"year": 2019, "percent": 42.2},
+						{"year": 2020, "percent": 42.6},
+						{"year": 2021, "percent": 43.0},
+						{"year": 2022, "percent": 43.4},
+						{"year": 2023, "percent": 43.8},
+						{"year": 2024, "percent": 44.2},
+						{"year": 2025, "percent": 44.6}
+					],
+					"targets": [
+						{"year": 2010, "percent": 38.6},
+						{"year": 2011, "percent": 40.0},
+						{"year": 2012, "percent": 41.4},
+						{"year": 2013, "percent": 42.8},
+						{"year": 2014, "percent": 44.3},
+						{"year": 2015, "percent": 45.7},
+						{"year": 2016, "percent": 47.1},
+						{"year": 2017, "percent": 48.6},
+						{"year": 2018, "percent": 50.0},
+						{"year": 2019, "percent": 51.4},
+						{"year": 2020, "percent": 52.9},
+						{"year": 2021, "percent": 54.3},
+						{"year": 2022, "percent": 55.7},
+						{"year": 2023, "percent": 57.1},
+						{"year": 2024, "percent": 58.6},
+						{"year": 2025, "percent": 60.0}
+					]
+				},
+				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey."
+			},
+
+			"counties": {
+				"data": [
+					{"county":"Baker","percent":32.42},
+					{"county":"Benton","percent":58.22},
+					{"county":"Clackamas","percent":41.47},
+					{"county":"Clatsop","percent":31.01},
+					{"county":"Columbia","percent":29.06},
+					{"county":"Coos","percent":27.44},
+					{"county":"Crook","percent":24.42},
+					{"county":"Curry","percent":24.20},
+					{"county":"Deschutes","percent":40.94},
+					{"county":"Douglas","percent":26.06},
+					{"county":"Gilliam","percent":33.76},
+					{"county":"Grant","percent":32.08},
+					{"county":"Harney","percent":24.74},
+					{"county":"Hood River","percent":35.19},
+					{"county":"Jackson","percent":32.69},
+					{"county":"Jefferson","percent":23.65},
+					{"county":"Josephine","percent":29.03},
+					{"county":"Klamath","percent":29.69},
+					{"county":"Lake","percent":25.73},
+					{"county":"Lane","percent":38.65},
+					{"county":"Lincoln","percent":30.47},
+					{"county":"Linn","percent":27.00},
+					{"county":"Malheur","percent":22.00},
+					{"county":"Marion","percent":31.10},
+					{"county":"Morrow","percent":21.13},
+					{"county":"Multnomah","percent":46.76},
+					{"county":"Polk","percent":38.95},
+					{"county":"Sherman","percent":33.12},
+					{"county":"Tillamook","percent":26.29},
+					{"county":"Umatilla","percent":25.46},
+					{"county":"Union","percent":33.25},
+					{"county":"Wallowa","percent":33.00},
+					{"county":"Wasco","percent":32.53},
+					{"county":"Washington","percent":49.19},
+					{"county":"Wheeler","percent":28.81},
+					{"county":"Yamhill","percent":31.87}
+				],
+				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
+			}
+		},
 
 
 
