@@ -41,7 +41,8 @@
 			"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey"
 		},
 		"counties": {
-			"title": "Percentage of {{STATE NAME}} adults (25-64) with at least an associate degree, by county"
+			"title": "Percentage of {{STATE NAME}} adults (25-64) with at least an associate degree, by county",
+			"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 		}
 	}
 }
