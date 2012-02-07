@@ -36,13 +36,13 @@
 
 		"bar-trend": [{
 			"year": 2008,
-			"percent": 0
+			"percent": 37.9
 		}, {
 			"year": 2009,
-			"percent": 0
+			"percent": 38.1
 		}, {
 			"year": 2010,
-			"percent": 0
+			"percent": 38.3
 		}],
 
 		"bar-rates": [{
@@ -707,13 +707,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 31.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 31.7
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 31.5
 			}],
 
 			"bar-rates": [{
@@ -1077,13 +1077,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 36.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 35.1
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 37.3
 			}],
 
 			"bar-rates": [{
@@ -1333,13 +1333,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 34.4
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 34.8
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 35.1
 			}],
 
 			"bar-rates": [{
@@ -1547,13 +1547,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 26.5
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 27.0
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 27.9
 			}],
 
 			"bar-rates": [{
@@ -1941,13 +1941,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 38.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 38.7
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 38.8
 			}],
 
 			"bar-rates": [{
@@ -2284,13 +2284,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 45.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 45.8
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 46.0
 			}],
 
 			"bar-rates": [{
@@ -2645,13 +2645,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 46.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 46.4
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 45.8
 			}],
 
 			"bar-rates": [{
@@ -2838,13 +2838,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 37.0
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 38.6
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 37.4
 			}],
 
 			"bar-rates": [{
@@ -3016,13 +3016,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 36.8
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 36.4
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 36.5
 			}],
 
 			"bar-rates": [{
@@ -3386,13 +3386,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 36.2
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 36.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 36.1
 			}],
 
 			"bar-rates": [{
@@ -4032,13 +4032,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 42.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 42.9
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 41.6
 			}],
 
 			"bar-rates": [{
@@ -4216,13 +4216,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 34.8
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 34.3
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 34.7
 			}],
 
 			"bar-rates": [{
@@ -4517,13 +4517,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 40.8
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 41.4
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 41.3
 			}],
 
 			"bar-rates": [{
@@ -4992,13 +4992,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 33.4
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 33.0
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 33.2
 			}],
 
 			"bar-rates": [{
@@ -5437,13 +5437,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 38.8
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 40.1
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 39.7
 			}],
 
 			"bar-rates": [{
@@ -5903,13 +5903,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 40.5
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 40.0
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 40.5
 			}],
 
 			"bar-rates": [{
@@ -6387,13 +6387,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 29.2
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 30.5
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 30.0
 			}],
 
 			"bar-rates": [{
@@ -6916,13 +6916,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 27.0
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 28.1
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 28.2
 			}],
 
 			"bar-rates": [{
@@ -7277,13 +7277,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 36.8
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 38.6
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 38.8
 			}],
 
 			"bar-rates": [{
@@ -7494,13 +7494,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 43.9
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 44.4
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 44.7
 			}],
 
 			"bar-rates": [{
@@ -7735,13 +7735,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 49.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 50.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 50.5
 			}],
 
 			"bar-rates": [{
@@ -7946,13 +7946,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 35.7
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 35.8
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 36.4
 			}],
 
 			"bar-rates": [{
@@ -8364,13 +8364,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 45.1
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 45.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 45.8
 			}],
 
 			"bar-rates": [{
@@ -8794,13 +8794,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 29.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 28.9
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 29.9
 			}],
 
 			"bar-rates": [{
@@ -9209,13 +9209,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 34.9
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 34.9
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 35.8
 			}],
 
 			"bar-rates": [{
@@ -9723,13 +9723,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 37.7
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 38.3
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 40.0
 			}],
 
 			"bar-rates": [{
@@ -10060,13 +10060,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 40.5
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 41.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 42.0
 			}],
 
 			"bar-rates": [{
@@ -10508,13 +10508,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 30.1
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 30.4
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 29.5
 			}],
 
 			"bar-rates": [{
@@ -10728,13 +10728,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 46.0
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 44.6
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 45.8
 			}],
 
 			"bar-rates": [{
@@ -10927,13 +10927,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 44.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 44.5
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 45.3
 			}],
 
 			"bar-rates": [{
@@ -11159,13 +11159,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 33.4
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 33.9
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 33.1
 			}],
 
 			"bar-rates": [{
@@ -11427,13 +11427,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 43.8
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 44.6
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 44.1
 			}],
 
 			"bar-rates": [{
@@ -11782,13 +11782,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 36.9
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 37.9
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 37.6
 			}],
 
 			"bar-rates": [{
@@ -12251,13 +12251,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 45.2
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 43.7
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 44.9
 			}],
 
 			"bar-rates": [{
@@ -12579,13 +12579,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 34.9
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 34.7
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 35.8
 			}],
 
 			"bar-rates": [{
@@ -13012,13 +13012,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 31.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 31.7
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 31.7
 			}],
 
 			"bar-rates": [{
@@ -13412,13 +13412,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 38.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 39.8
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 38.6
 			}],
 
 			"bar-rates": [{
@@ -13689,13 +13689,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 37.9
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 37.8
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 38.6
 			}],
 
 			"bar-rates": [{
@@ -14059,13 +14059,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 41.4
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 42.6
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 41.2
 			}],
 
 			"bar-rates": [{
@@ -14243,13 +14243,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 34.4
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 34.9
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 34.8
 			}],
 
 			"bar-rates": [{
@@ -14550,13 +14550,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 39.4
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 38.6
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 40.8
 			}],
 
 			"bar-rates": [{
@@ -14917,13 +14917,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 31.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 31.8
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 31.9
 			}],
 
 			"bar-rates": [{
@@ -15371,13 +15371,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 33.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 33.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 33.7
 			}],
 
 			"bar-rates": [{
@@ -16302,13 +16302,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 40.3
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 39.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 39.7
 			}],
 
 			"bar-rates": [{
@@ -16558,13 +16558,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 43.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 44.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 44.1
 			}],
 
 			"bar-rates": [{
@@ -16769,13 +16769,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 43.4
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 43.4
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 43.9
 			}],
 
 			"bar-rates": [{
@@ -17340,13 +17340,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 42.0
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 42.3
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 42.5
 			}],
 
 			"bar-rates": [{
@@ -17626,13 +17626,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 25.6
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 26.4
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 26.1
 			}],
 
 			"bar-rates": [{
@@ -17963,13 +17963,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 38.0
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 38.2
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 39.1
 			}],
 
 			"bar-rates": [{
@@ -18348,13 +18348,13 @@
 
 			"bar-trend": [{
 				"year": 2008,
-				"percent": 0
+				"percent": 36.0
 			}, {
 				"year": 2009,
-				"percent": 0
+				"percent": 34.9
 			}, {
 				"year": 2010,
-				"percent": 0
+				"percent": 37.3
 			}],
 
 			"bar-rates": [{

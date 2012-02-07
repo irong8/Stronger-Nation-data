@@ -5,8 +5,8 @@
 			"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 		},
 		"bar-trend": {
-			"title": "Tracking the trend in the U.S.",
-			"source": "Source: U.S. Census Bureau, more description to come later for this"
+			"title": "Tracking the trend",
+			"source": "Source: U.S. Census Bureau, American Community Survey"
 		},
 		"bar-rates": {
 			"title": "Degree-attainment rates among United States adults (ages 25-64), by population group",
@@ -29,8 +29,8 @@
 			"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 		},
 		"bar-trend": {
-			"title": "Tracking the trend in {{STATE NAME}}",
-			"source": "Source: U.S. Census Bureau, more description to come later for this"
+			"title": "Tracking the trend",
+			"source": "Source: U.S. Census Bureau, American Community Survey"
 		},
 		"bar-rates": {
 			"title": "Degree-attainment rates among {{STATE NAME}} adults (ages 25-64), by population group",
