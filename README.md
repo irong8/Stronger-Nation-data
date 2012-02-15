@@ -6,7 +6,7 @@ We are also including the original Excel files in this repo so that we might hav
 
 ## The project
 
-For those not familiar with this project, basically what you have here is a bunch of national/state/county data on education (check out [chart-meta.json file](https://github.com/irong8/stronger-nation-data/blob/master/chart-meta.json) for the sources).
+For those unfamiliar with this project, what you have here is a bunch of national/state/county data on education (check out the "meta" properties in [data.json](https://github.com/irong8/stronger-nation-data/blob/master/data.json) for the sources).
 
 ## Parting words
 
