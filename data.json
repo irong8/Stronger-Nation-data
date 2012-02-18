@@ -20,7 +20,7 @@
 				"legend": [{
 					"expected": "Annual benchmarks (targets) for a straight-line trajectory to reach 60% attainment by 2025"
 				}, {
-					"targets": "Expected percentages of degee holders among 25- to 64-year-olds at the current rate of production"
+					"targets": "Expected percentages of degree holders among 25- to 64-year-olds at the current rate of production"
 				}]
 			}
 		},
@@ -211,7 +211,7 @@
 				"legend": [{
 					"expected": "Annual benchmarks (targets) for a straight-line trajectory to reach 60% attainment by 2025"
 				}, {
-					"targets": "Expected percentages of degee holders among 25- to 64-year-olds at the current rate of production"
+					"targets": "Expected percentages of degree holders among 25- to 64-year-olds at the current rate of production"
 				}]
 			},
 			"counties": {
