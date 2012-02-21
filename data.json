@@ -17,11 +17,7 @@
 			"line": {
 				"title": "The path to 60% degree attainment",
 				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey",
-				"legend": [{
-					"expected": "Annual benchmarks (targets) for a straight-line trajectory to reach 60% attainment by 2025"
-				}, {
-					"targets": "Expected percentages of degree holders among 25- to 64-year-olds at the current rate of production"
-				}]
+				"legend": ["Annual benchmarks (targets) for a straight-line trajectory to reach 60% attainment by 2025", "Expected percentages of degree holders among 25- to 64-year-olds at the current rate of production"]
 			}
 		},
 		"pie": [{
@@ -208,11 +204,7 @@
 			"line": {
 				"title": "The path to 60% degree attainment",
 				"source": "Source: U.S. Census Bureau, 2000 Census & 2010 American Community Survey",
-				"legend": [{
-					"expected": "Annual benchmarks (targets) for a straight-line trajectory to reach 60% attainment by 2025"
-				}, {
-					"targets": "Expected percentages of degree holders among 25- to 64-year-olds at the current rate of production"
-				}]
+				"legend": ["Annual benchmarks (targets) for a straight-line trajectory to reach 60% attainment by 2025", "Expected percentages of degree holders among 25- to 64-year-olds at the current rate of production"]
 			},
 			"counties": {
 				"title": "Percentage of adults (25-64) with at least an associate degree, by county",
