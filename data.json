@@ -3,7 +3,7 @@
 	"nation": {
 		"meta": {
 			"pie": {
-				"title": "Levels of education for residents (50 States + D.C.), ages 25-64",
+				"title": "Levels of education for residents, ages 25-64",
 				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 			},
 			"bar-trend": {
@@ -207,7 +207,11 @@
 				"legend": ["Annual benchmarks (targets) for a straight-line trajectory to reach 60% attainment by 2025", "Expected percentages of degree holders among 25- to 64-year-olds at the current rate of production"]
 			},
 			"counties": {
-				"title": "Percentage of adults (25-64) with at least an associate degree, by county",
+				"title": "Percentage of adults (25-64) with at least an associate degree, by ",
+				"type": {
+					"alaska": "borough",
+					"louisiana": "parish"
+				},
 				"source": "Source: U.S. Census Bureau, 2006-10 American Community Survey 5-Year Estimates"
 			}
 		},
@@ -18218,7 +18222,7 @@
 			"rank": 25,
 			"percent": 40.65,
 			"population": 2149127,
-			"area": "Sacramento--Arden-Arcade--Roseville, CA Metro Area"
+			"area": "Sacramento-Arden-Arcade-Roseville, CA Metro Area"
 		}, {
 			"rank": 26,
 			"percent": 33.88,
@@ -18288,7 +18292,7 @@
 			"rank": 39,
 			"percent": 39.06,
 			"population": 1589934,
-			"area": "Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area"
+			"area": "Nashville-Davidson-Murfreesboro-Franklin, TN Metro Area"
 		}, {
 			"rank": 40,
 			"percent": 42.09,
@@ -18553,7 +18557,7 @@
 			"rank": 92,
 			"percent": 34.5,
 			"population": 563631,
-			"area": "Scranton--Wilkes-Barre, PA Metro Area"
+			"area": "Scranton-Wilkes-Barre, PA Metro Area"
 		}, {
 			"rank": 93,
 			"percent": 32.58,
