@@ -4,7 +4,7 @@
 	"nation": {
 		"meta": {
 			"pie": {
-				"title": "Levels of education (50 States + D.C.) residents, ages 25-64",
+				"title": "Levels of education for residents (50 States + D.C.), ages 25-64",
 				"source": "Source: U.S. Census Bureau, 2010 American Community Survey"
 			},
 			"bar-trend": {
