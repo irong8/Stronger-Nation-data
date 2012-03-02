@@ -18103,127 +18103,152 @@
 			"rank": 1,
 			"percent": 45.88,
 			"population": 18897109,
-			"area": "New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area"
+			"area": "New York-Northern New Jersey-Long Island, NY-NJ-PA Metro Area",
+			"pos": [241, 61]
 		}, {
 			"rank": 2,
 			"percent": 38.96,
 			"population": 12828837,
-			"area": "Los Angeles-Long Beach-Santa Ana, CA Metro Area"
+			"area": "Los Angeles-Long Beach-Santa Ana, CA Metro Area",
+			"pos": [20, 97]
 		}, {
 			"rank": 3,
 			"percent": 43.59,
 			"population": 9461105,
-			"area": "Chicago-Joliet-Naperville, IL-IN-WI Metro Area"
+			"area": "Chicago-Joliet-Naperville, IL-IN-WI Metro Area",
+			"pos": [170, 58]
 		}, {
 			"rank": 4,
 			"percent": 38.66,
 			"population": 6371773,
-			"area": "Dallas-Fort Worth-Arlington, TX Metro Area"
+			"area": "Dallas-Fort Worth-Arlington, TX Metro Area",
+			"pos": [137, 126]
 		}, {
 			"rank": 5,
 			"percent": 42.65,
 			"population": 5965343,
-			"area": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area"
+			"area": "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",
+			"pos": [230, 72]
 		}, {
 			"rank": 6,
 			"percent": 35.25,
 			"population": 5946800,
-			"area": "Houston-Sugar Land-Baytown, TX Metro Area"
+			"area": "Houston-Sugar Land-Baytown, TX Metro Area",
+			"pos": [134, 145]
 		}, {
 			"rank": 7,
 			"percent": 54.37,
 			"population": 5582170,
-			"area": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area"
+			"area": "Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",
+			"pos": [223, 77]
 		}, {
 			"rank": 8,
 			"percent": 39.65,
 			"population": 5564635,
-			"area": "Miami-Fort Lauderdale-Pompano Beach, FL Metro Area"
+			"area": "Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",
+			"pos": [220, 155]
 		}, {
 			"rank": 9,
 			"percent": 43.39,
 			"population": 5268860,
-			"area": "Atlanta-Sandy Springs-Marietta, GA Metro Area"
+			"area": "Atlanta-Sandy Springs-Marietta, GA Metro Area",
+			"pos": [185, 115]
 		}, {
 			"rank": 10,
 			"percent": 54.01,
 			"population": 4552402,
-			"area": "Boston-Cambridge-Quincy, MA-NH Metro Area"
+			"area": "Boston-Cambridge-Quincy, MA-NH Metro Area",
+			"pos": [249, 51]
 		}, {
 			"rank": 11,
 			"percent": 52.91,
 			"population": 4335391,
-			"area": "San Francisco-Oakland-Fremont, CA Metro Area"
+			"area": "San Francisco-Oakland-Fremont, CA Metro Area",
+			"pos": [5, 61]
 		}, {
 			"rank": 12,
 			"percent": 37.86,
 			"population": 4296250,
-			"area": "Detroit-Warren-Livonia, MI Metro Area"
+			"area": "Detroit-Warren-Livonia, MI Metro Area",
+			"pos": [189, 58]
 		}, {
 			"rank": 13,
 			"percent": 27.54,
 			"population": 4224851,
-			"area": "Riverside-San Bernardino-Ontario, CA Metro Area"
+			"area": "Riverside-San Bernardino-Ontario, CA Metro Area",
+			"pos": [38, 96]
 		}, {
 			"rank": 14,
 			"percent": 37.3,
 			"population": 4192887,
-			"area": "Phoenix-Mesa-Glendale, AZ Metro Area"
+			"area": "Phoenix-Mesa-Glendale, AZ Metro Area",
+			"pos": [65, 110]
 		}, {
 			"rank": 15,
 			"percent": 47.97,
 			"population": 3439809,
-			"area": "Seattle-Tacoma-Bellevue, WA Metro Area"
+			"area": "Seattle-Tacoma-Bellevue, WA Metro Area",
+			"pos": [26, 12]
 		}, {
 			"rank": 16,
 			"percent": 50.06,
 			"population": 3279833,
-			"area": "Minneapolis-St. Paul-Bloomington, MN-WI Metro Area"
+			"area": "Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",
+			"pos": [174, 44]
 		}, {
 			"rank": 17,
 			"percent": 43.95,
 			"population": 3095313,
-			"area": "San Diego-Carlsbad-San Marcos, CA Metro Area"
+			"area": "San Diego-Carlsbad-San Marcos, CA Metro Area",
+			"pos": [50, 115]
 		}, {
 			"rank": 18,
 			"percent": 41.15,
 			"population": 2812896,
-			"area": "St. Louis, MO-IL Metro Area"
+			"area": "St. Louis, MO-IL Metro Area",
+			"pos": [176, 90]
 		}, {
 			"rank": 19,
 			"percent": 37.56,
 			"population": 2783243,
-			"area": "Tampa-St. Petersburg-Clearwater, FL Metro Area"
+			"area": "Tampa-St. Petersburg-Clearwater, FL Metro Area",
+			"pos": [209, 149]
 		}, {
 			"rank": 20,
 			"percent": 43.9,
 			"population": 2710489,
-			"area": "Baltimore-Towson, MD Metro Area"
+			"area": "Baltimore-Towson, MD Metro Area",
+			"pos": [224, 74]
 		}, {
 			"rank": 21,
 			"percent": 47.39,
 			"population": 2543482,
-			"area": "Denver-Aurora-Broomfield, CO Metro Area"
+			"area": "Denver-Aurora-Broomfield, CO Metro Area",
+			"pos": [91, 79]
 		}, {
 			"rank": 22,
 			"percent": 36.92,
 			"population": 2478905,
-			"area": "San Juan-Caguas-Guaynabo, PR Metro Area"
+			"area": "San Juan-Caguas-Guaynabo, PR Metro Area",
+			"pos": [256, 199]
 		}, {
 			"rank": 23,
 			"percent": 43.56,
 			"population": 2356285,
-			"area": "Pittsburgh, PA Metro Area"
+			"area": "Pittsburgh, PA Metro Area",
+			"pos": [203, 73]
 		}, {
 			"rank": 24,
 			"percent": 43.82,
 			"population": 2226009,
-			"area": "Portland-Vancouver-Hillsboro, OR-WA Metro Area"
+			"area": "Portland-Vancouver-Hillsboro, OR-WA Metro Area",
+			"pos": [22, 18]
 		}, {
 			"rank": 25,
 			"percent": 40.65,
 			"population": 2149127,
-			"area": "Sacramento-Arden-Arcade-Roseville, CA Metro Area"
+			"area": "Sacramento-Arden-Arcade-Roseville, CA Metro Area",
+			"pos": [14, 67]
 		}, {
 			"rank": 26,
 			"percent": 33.88,
