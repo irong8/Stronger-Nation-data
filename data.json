@@ -18253,377 +18253,452 @@
 			"rank": 26,
 			"percent": 33.88,
 			"population": 2142508,
-			"area": "San Antonio-New Braunfels, TX Metro Area"
+			"area": "San Antonio-New Braunfels, TX Metro Area",
+			"pos": [122, 144]
 		}, {
 			"rank": 27,
 			"percent": 39.55,
 			"population": 2134411,
-			"area": "Orlando-Kissimmee-Sanford, FL Metro Area"
+			"area": "Orlando-Kissimmee-Sanford, FL Metro Area",
+			"pos": [216, 144]
 		}, {
 			"rank": 28,
 			"percent": 39.37,
 			"population": 2130151,
-			"area": "Cincinnati-Middletown, OH-KY-IN Metro Area"
+			"area": "Cincinnati-Middletown, OH-KY-IN Metro Area",
+			"pos": [179, 79]
 		}, {
 			"rank": 29,
 			"percent": 38.65,
 			"population": 2077240,
-			"area": "Cleveland-Elyria-Mentor, OH Metro Area"
+			"area": "Cleveland-Elyria-Mentor, OH Metro Area",
+			"pos": [197, 65]
 		}, {
 			"rank": 30,
 			"percent": 42.52,
 			"population": 2035334,
-			"area": "Kansas City, MO-KS Metro Area"
+			"area": "Kansas City, MO-KS Metro Area",
+			"pos": [157, 87]
 		}, {
 			"rank": 31,
 			"percent": 29.67,
 			"population": 1951269,
-			"area": "Las Vegas-Paradise, NV Metro Area"
+			"area": "Las Vegas-Paradise, NV Metro Area",
+			"pos": [49, 93]
 		}, {
 			"rank": 32,
 			"percent": 54.08,
 			"population": 1836911,
-			"area": "San Jose-Sunnyvale-Santa Clara, CA Metro Area"
+			"area": "San Jose-Sunnyvale-Santa Clara, CA Metro Area",
+			"pos": [19, 87]
 		}, {
 			"rank": 33,
 			"percent": 42.83,
 			"population": 1836536,
-			"area": "Columbus, OH Metro Area"
+			"area": "Columbus, OH Metro Area",
+			"pos": [194, 76]
 		}, {
 			"rank": 34,
 			"percent": 43.16,
 			"population": 1758038,
-			"area": "Charlotte-Gastonia-Rock Hill, NC-SC Metro Area"
+			"area": "Charlotte-Gastonia-Rock Hill, NC-SC Metro Area",
+			"pos": [204, 105]
 		}, {
 			"rank": 35,
 			"percent": 41.0,
 			"population": 1756241,
-			"area": "Indianapolis-Carmel, IN Metro Area"
+			"area": "Indianapolis-Carmel, IN Metro Area",
+			"pos": [175, 77]
 		}, {
 			"rank": 36,
 			"percent": 46.97,
 			"population": 1716289,
-			"area": "Austin-Round Rock-San Marcos, TX Metro Area"
+			"area": "Austin-Round Rock-San Marcos, TX Metro Area",
+			"pos": [127, 137]
 		}, {
 			"rank": 37,
 			"percent": 38.2,
 			"population": 1671683,
-			"area": "Virginia Beach-Norfolk-Newport News, VA-NC Metro Area"
+			"area": "Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",
+			"pos": [221, 92]
 		}, {
 			"rank": 38,
 			"percent": 40.28,
 			"population": 1600852,
-			"area": "Providence-New Bedford-Fall River, RI-MA Metro Area"
+			"area": "Providence-New Bedford-Fall River, RI-MA Metro Area",
+			"pos": [248, 52]
 		}, {
 			"rank": 39,
 			"percent": 39.06,
 			"population": 1589934,
-			"area": "Nashville-Davidson-Murfreesboro-Franklin, TN Metro Area"
+			"area": "Nashville-Davidson-Murfreesboro-Franklin, TN Metro Area",
+			"pos": [179, 99]
 		}, {
 			"rank": 40,
 			"percent": 42.09,
 			"population": 1555908,
-			"area": "Milwaukee-Waukesha-West Allis, WI Metro Area"
+			"area": "Milwaukee-Waukesha-West Allis, WI Metro Area",
+			"pos": [172, 52]
 		}, {
 			"rank": 41,
 			"percent": 36.5,
 			"population": 1345596,
-			"area": "Jacksonville, FL Metro Area"
+			"area": "Jacksonville, FL Metro Area",
+			"pos": [207, 134]
 		}, {
 			"rank": 42,
 			"percent": 33.28,
 			"population": 1316100,
-			"area": "Memphis, TN-MS-AR Metro Area"
+			"area": "Memphis, TN-MS-AR Metro Area",
+			"pos": [156, 110]
 		}, {
 			"rank": 43,
 			"percent": 34.85,
 			"population": 1283566,
-			"area": "Louisville/Jefferson County, KY-IN Metro Area"
+			"area": "Louisville/Jefferson County, KY-IN Metro Area",
+			"pos": [176, 87]
 		}, {
 			"rank": 44,
 			"percent": 39.61,
 			"population": 1258251,
-			"area": "Richmond, VA Metro Area"
+			"area": "Richmond, VA Metro Area",
+			"pos": [222, 81]
 		}, {
 			"rank": 45,
 			"percent": 35.19,
 			"population": 1252987,
-			"area": "Oklahoma City, OK Metro Area"
+			"area": "Oklahoma City, OK Metro Area",
+			"pos": [129, 102]
 		}, {
 			"rank": 46,
 			"percent": 46.28,
 			"population": 1212381,
-			"area": "Hartford-West Hartford-East Hartford, CT Metro Area"
+			"area": "Hartford-West Hartford-East Hartford, CT Metro Area",
+			"pos": [240, 50]
 		}, {
 			"rank": 47,
 			"percent": 33.7,
 			"population": 1167764,
-			"area": "New Orleans-Metairie-Kenner, LA Metro Area"
+			"area": "New Orleans-Metairie-Kenner, LA Metro Area",
+			"pos": [156, 134]
 		}, {
 			"rank": 48,
 			"percent": 44.14,
 			"population": 1135509,
-			"area": "Buffalo-Niagara Falls, NY Metro Area"
+			"area": "Buffalo-Niagara Falls, NY Metro Area",
+			"pos": [210, 54]
 		}, {
 			"rank": 49,
 			"percent": 52.72,
 			"population": 1130490,
-			"area": "Raleigh-Cary, NC Metro Area"
+			"area": "Raleigh-Cary, NC Metro Area",
+			"pos": [212, 95]
 		}, {
 			"rank": 50,
 			"percent": 36.92,
 			"population": 1128047,
-			"area": "Birmingham-Hoover, AL Metro Area"
+			"area": "Birmingham-Hoover, AL Metro Area",
+			"pos": [162, 115]
 		}, {
 			"rank": 51,
 			"percent": 39.64,
 			"population": 1124197,
-			"area": "Salt Lake City, UT Metro Area"
+			"area": "Salt Lake City, UT Metro Area",
+			"pos": [60, 62]
 		}, {
 			"rank": 52,
 			"percent": 46.9,
 			"population": 1054323,
-			"area": "Rochester, NY Metro Area"
+			"area": "Rochester, NY Metro Area",
+			"pos": [226, 40]
 		}, {
 			"rank": 53,
 			"percent": 37.77,
 			"population": 980263,
-			"area": "Tucson, AZ Metro Area"
+			"area": "Tucson, AZ Metro Area",
+			"pos": [51, 115]
 		}, {
 			"rank": 54,
 			"percent": 44.5,
 			"population": 953207,
-			"area": "Honolulu, HI Metro Area"
+			"area": "Honolulu, HI Metro Area",
+			"pos": [0, 161]
 		}, {
 			"rank": 55,
 			"percent": 35.55,
 			"population": 937478,
-			"area": "Tulsa, OK Metro Area"
+			"area": "Tulsa, OK Metro Area",
+			"pos": [134, 111]
 		}, {
 			"rank": 56,
 			"percent": 28.71,
 			"population": 930450,
-			"area": "Fresno, CA Metro Area"
+			"area": "Fresno, CA Metro Area",
+			"pos": [30, 92]
 		}, {
 			"rank": 57,
 			"percent": 53.29,
 			"population": 916829,
-			"area": "Bridgeport-Stamford-Norwalk, CT Metro Area"
+			"area": "Bridgeport-Stamford-Norwalk, CT Metro Area",
+			"pos": [235, 66]
 		}, {
 			"rank": 58,
 			"percent": 37.68,
 			"population": 887077,
-			"area": "Albuquerque, NM Metro Area"
+			"area": "Albuquerque, NM Metro Area",
+			"pos": [91, 119]
 		}, {
 			"rank": 59,
 			"percent": 48.94,
 			"population": 870716,
-			"area": "Albany-Schenectady-Troy, NY Metro Area"
+			"area": "Albany-Schenectady-Troy, NY Metro Area",
+			"pos": [234, 51]
 		}, {
 			"rank": 60,
 			"percent": 43.82,
 			"population": 865350,
-			"area": "Omaha-Council Bluffs, NE-IA Metro Area"
+			"area": "Omaha-Council Bluffs, NE-IA Metro Area",
+			"pos": [141, 70]
 		}, {
 			"rank": 61,
 			"percent": 42.99,
 			"population": 862477,
-			"area": "New Haven-Milford, CT Metro Area"
+			"area": "New Haven-Milford, CT Metro Area",
+			"pos": [238, 62]
 		}, {
 			"rank": 62,
 			"percent": 36.67,
 			"population": 841502,
-			"area": "Dayton, OH Metro Area"
+			"area": "Dayton, OH Metro Area",
+			"pos": [178, 82]
 		}, {
 			"rank": 63,
 			"percent": 21.33,
 			"population": 839631,
-			"area": "Bakersfield-Delano, CA Metro Area"
+			"area": "Bakersfield-Delano, CA Metro Area",
+			"pos": [51, 112]
 		}, {
 			"rank": 64,
 			"percent": 40.11,
 			"population": 823318,
-			"area": "Oxnard-Thousand Oaks-Ventura, CA Metro Area"
+			"area": "Oxnard-Thousand Oaks-Ventura, CA Metro Area",
+			"pos": [47, 114]
 		}, {
 			"rank": 65,
 			"percent": 38.76,
 			"population": 821173,
-			"area": "Allentown-Bethlehem-Easton, PA-NJ Metro Area"
+			"area": "Allentown-Bethlehem-Easton, PA-NJ Metro Area",
+			"pos": [231, 67]
 		}, {
 			"rank": 66,
 			"percent": 31.65,
 			"population": 802484,
-			"area": "Baton Rouge, LA Metro Area"
+			"area": "Baton Rouge, LA Metro Area",
+			"pos": [157, 126]
 		}, {
 			"rank": 67,
 			"percent": 28.05,
 			"population": 800647,
-			"area": "El Paso, TX Metro Area"
+			"area": "El Paso, TX Metro Area",
+			"pos": [92, 135]
 		}, {
 			"rank": 68,
 			"percent": 46.32,
 			"population": 798552,
-			"area": "Worcester, MA Metro Area"
+			"area": "Worcester, MA Metro Area",
+			"pos": [240, 50]
 		}, {
 			"rank": 69,
 			"percent": 20.78,
 			"population": 774769,
-			"area": "McAllen-Edinburg-Mission, TX Metro Area"
+			"area": "McAllen-Edinburg-Mission, TX Metro Area",
+			"pos": [121, 155]
 		}, {
 			"rank": 70,
 			"percent": 37.62,
 			"population": 774160,
-			"area": "Grand Rapids-Wyoming, MI Metro Area"
+			"area": "Grand Rapids-Wyoming, MI Metro Area",
+			"pos": [181, 52]
 		}, {
 			"rank": 71,
 			"percent": 40.59,
 			"population": 767598,
-			"area": "Columbia, SC Metro Area"
+			"area": "Columbia, SC Metro Area",
+			"pos": [207, 111]
 		}, {
 			"rank": 72,
 			"percent": 35.3,
 			"population": 723801,
-			"area": "Greensboro-High Point, NC Metro Area"
+			"area": "Greensboro-High Point, NC Metro Area",
+			"pos": [211, 95]
 		}, {
 			"rank": 73,
 			"percent": 39.93,
 			"population": 703200,
-			"area": "Akron, OH Metro Area"
+			"area": "Akron, OH Metro Area",
+			"pos": [201, 74]
 		}, {
 			"rank": 74,
 			"percent": 36.47,
 			"population": 702281,
-			"area": "North Port-Bradenton-Sarasota, FL Metro Area"
+			"area": "North Port-Bradenton-Sarasota, FL Metro Area",
+			"pos": [210, 148]
 		}, {
 			"rank": 75,
 			"percent": 35.18,
 			"population": 699757,
-			"area": "Little Rock-North Little Rock-Conway, AR Metro Area"
+			"area": "Little Rock-North Little Rock-Conway, AR Metro Area",
+			"pos": [152, 112]
 		}, {
 			"rank": 76,
 			"percent": 38.86,
 			"population": 698030,
-			"area": "Knoxville, TN Metro Area"
+			"area": "Knoxville, TN Metro Area",
+			"pos": [183, 101]
 		}, {
 			"rank": 77,
 			"percent": 41.17,
 			"population": 692942,
-			"area": "Springfield, MA Metro Area"
+			"area": "Springfield, MA Metro Area",
+			"pos": [238, 47]
 		}, {
 			"rank": 78,
 			"percent": 26.11,
 			"population": 685306,
-			"area": "Stockton, CA Metro Area"
+			"area": "Stockton, CA Metro Area",
+			"pos": [15, 70]
 		}, {
 			"rank": 79,
 			"percent": 42.77,
 			"population": 670301,
-			"area": "Poughkeepsie-Newburgh-Middletown, NY Metro Area"
+			"area": "Poughkeepsie-Newburgh-Middletown, NY Metro Area",
+			"pos": [242, 60]
 		}, {
 			"rank": 80,
 			"percent": 40.75,
 			"population": 664607,
-			"area": "Charleston-North Charleston-Summerville, SC Metro Area"
+			"area": "Charleston-North Charleston-Summerville, SC Metro Area",
+			"pos": [213, 113]
 		}, {
 			"rank": 81,
 			"percent": 43.53,
 			"population": 662577,
-			"area": "Syracuse, NY Metro Area"
+			"area": "Syracuse, NY Metro Area",
+			"pos": [229, 42]
 		}, {
 			"rank": 82,
 			"percent": 34.82,
 			"population": 651429,
-			"area": "Toledo, OH Metro Area"
+			"area": "Toledo, OH Metro Area",
+			"pos": [187, 65]
 		}, {
 			"rank": 83,
 			"percent": 46.38,
 			"population": 645613,
-			"area": "Colorado Springs, CO Metro Area"
+			"area": "Colorado Springs, CO Metro Area",
+			"pos": [85, 85]
 		}, {
 			"rank": 84,
 			"percent": 38.58,
 			"population": 636986,
-			"area": "Greenville-Mauldin-Easley, SC Metro Area"
+			"area": "Greenville-Mauldin-Easley, SC Metro Area",
+			"pos": [200, 115]
 		}, {
 			"rank": 85,
 			"percent": 36.58,
 			"population": 623061,
-			"area": "Wichita, KS Metro Area"
+			"area": "Wichita, KS Metro Area",
+			"pos": [137, 100]
 		}, {
 			"rank": 86,
 			"percent": 32.46,
 			"population": 618754,
-			"area": "Cape Coral-Fort Myers, FL Metro Area"
+			"area": "Cape Coral-Fort Myers, FL Metro Area",
+			"pos": [210, 151]
 		}, {
 			"rank": 87,
 			"percent": 37.85,
 			"population": 616561,
-			"area": "Boise City-Nampa, ID Metro Area"
+			"area": "Boise City-Nampa, ID Metro Area",
+			"pos": [44, 52]
 		}, {
 			"rank": 88,
 			"percent": 27.57,
 			"population": 602095,
-			"area": "Lakeland-Winter Haven, FL Metro Area"
+			"area": "Lakeland-Winter Haven, FL Metro Area",
+			"pos": [210, 146]
 		}, {
 			"rank": 89,
 			"percent": 46.86,
 			"population": 569633,
-			"area": "Des Moines-West Des Moines, IA Metro Area"
+			"area": "Des Moines-West Des Moines, IA Metro Area",
+			"pos": [171, 69]
 		}, {
 			"rank": 90,
 			"percent": 53.74,
 			"population": 568593,
-			"area": "Madison, WI Metro Area"
+			"area": "Madison, WI Metro Area",
+			"pos": [176, 53]
 		}, {
 			"rank": 91,
 			"percent": 28.71,
 			"population": 565773,
-			"area": "Youngstown-Warren-Boardman, OH-PA Metro Area"
+			"area": "Youngstown-Warren-Boardman, OH-PA Metro Area",
+			"pos": [205, 71]
 		}, {
 			"rank": 92,
 			"percent": 34.5,
 			"population": 563631,
-			"area": "Scranton-Wilkes-Barre, PA Metro Area"
+			"area": "Scranton-Wilkes-Barre, PA Metro Area",
+			"pos": [229, 54]
 		}, {
 			"rank": 93,
 			"percent": 32.58,
 			"population": 556877,
-			"area": "Augusta-Richmond County, GA-SC Metro Area"
+			"area": "Augusta-Richmond County, GA-SC Metro Area",
+			"pos": [201, 111]
 		}, {
 			"rank": 94,
 			"percent": 39.68,
 			"population": 549475,
-			"area": "Harrisburg-Carlisle, PA Metro Area"
+			"area": "Harrisburg-Carlisle, PA Metro Area",
+			"pos": [230, 61]
 		}, {
 			"rank": 95,
 			"percent": 40.09,
 			"population": 547184,
-			"area": "Ogden-Clearfield, UT Metro Area"
+			"area": "Ogden-Clearfield, UT Metro Area",
+			"pos": [60, 64]
 		}, {
 			"rank": 96,
 			"percent": 39.37,
 			"population": 543376,
-			"area": "Palm Bay-Melbourne-Titusville, FL Metro Area"
+			"area": "Palm Bay-Melbourne-Titusville, FL Metro Area",
+			"pos": [215, 144]
 		}, {
 			"rank": 97,
 			"percent": 38.78,
 			"population": 539057,
-			"area": "Jackson, MS Metro Area"
+			"area": "Jackson, MS Metro Area",
+			"pos": [165, 123]
 		}, {
 			"rank": 98,
 			"percent": 32.34,
 			"population": 528143,
-			"area": "Chattanooga, TN-GA Metro Area"
+			"area": "Chattanooga, TN-GA Metro Area",
+			"pos": [177, 104]
 		}, {
 			"rank": 99,
 			"percent": 46.97,
 			"population": 526810,
-			"area": "Provo-Orem, UT Metro Area"
+			"area": "Provo-Orem, UT Metro Area",
+			"pos": [55, 70]
 		}, {
 			"rank": 100,
 			"percent": 32.21,
 			"population": 519445,
-			"area": "Lancaster, PA Metro Area"
+			"area": "Lancaster, PA Metro Area",
+			"pos": [228, 70]
 		}]
 	},
 	
